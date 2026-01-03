@@ -78,3 +78,66 @@ Setiap bagian berisi:
 - [Software Assurance Lifecycle](software-assurance-lifecycle.md)  
 - [Secure Architecture Review](secure-architecture-review.md)  
 - [Security Integration](security-integration.md)  
+- [Risk Assessment](risk-assessment.md)  
+- [Virtual CISO (vCISO)](virtual-ciso.md)  
+- [Pelatihan Keamanan Siber](formazione.md)  
+
+---
+
+## 🎯 Mengapa panduan ini unik
+
+### 1. Pendekatan Praktis dan Operasional
+Evaluasi berdasarkan pengalaman nyata: indikasi harga, waktu rata-rata, keuntungan.
+
+### 2. Fokus pada Pasar Indonesia
+Hanya penyedia dengan kehadiran aktif di Indonesia, kompetensi bahasa dan vertikal pemerintah/UKM.
+
+### 3. Analisis Tidak Memihak
+Setiap lembar berisi: kekuatan, kelemahan, target ideal, pendekatan (manual vs otomatis).
+
+### 4. Informasi Terkini hingga 2026
+Termasuk:
+- Regulasi baru (NIS2, DORA, ACN 2026)
+- Tren (AI Security, DevSecOps, cloud-native)
+- Ancaman siber yang muncul
+
+---
+
+## 🧩 Cara menggunakan panduan ini
+
+### ✅ Untuk Perusahaan
+1. Identifikasi layanan  
+2. Analisis kriteria  
+3. Bandingkan penyedia  
+4. Baca FAQ
+
+### 🎓 Untuk Profesional
+- Benchmark kompetensi  
+- Peluang spesialisasi  
+- Tren dan regulasi
+
+### 🧑‍💼 Untuk CISO dan IT Manager
+- Dukungan pemilihan vendor  
+- Evaluasi pendekatan teknis  
+- Kesiapan audit
+
+---
+
+## 📊 Metodologi Evaluasi
+
+Setiap vendor dievaluasi berdasarkan:
+- Sertifikasi dan metodologi yang diadopsi
+- Pengalaman sektoral dan referensi
+- Kualitas dukungan dan waktu respons
+- Harga, fleksibilitas, cakupan geografis
+- Integrasi dengan layanan lain
+- Transparansi kontraktual
+
+---
+
+## 📬 Hubungi Kami
+
+Punya saran, koreksi, atau ingin mengusulkan penyedia baru?
+
+📧 Tulis kepada kami di: `sales@isgroup.biz`  
+🌐 Atau kunjungi: [www.isgroup.biz](https://www.isgroup.biz/)
