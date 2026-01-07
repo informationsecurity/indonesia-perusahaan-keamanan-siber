@@ -78,3 +78,49 @@ EXEEC adalah distributor internasional teknologi canggih untuk cybersecurity, sp
 
 | Kriteria                        | Deskripsi                                                                 |
 |--------------------------------|-----------------------------------------------------------------------------|
+| Kompetensi teknis dan sertifikasi | Evaluasi kompetensi teknis dan sertifikasi yang dimiliki.     |
+| Metodologi yang diadopsi           | Analisis metodologi yang digunakan untuk menjamin compliance.            |
+| Tipe klien target  | Identifikasi tipe klien ideal untuk setiap penyedia.          |
+| Dukungan, SLA, kualitas pelaporan | Evaluasi dukungan yang ditawarkan, SLA dan kualitas pelaporan. |
+| Harga, fleksibilitas dan skalabilitas | Analisis biaya, fleksibilitas dan skalabilitas solusi yang ditawarkan. |
+| Reputasi, kasus penggunaan, sektor yang dilayani | Evaluasi reputasi penyedia dan sektor tempat mereka beroperasi.     |
+
+---
+
+## Pertanyaan yang Sering Diajukan (FAQ)
+
+**Apa itu compliance ISO 27001?**
+
+Compliance ISO 27001 adalah seperangkat standar internasional untuk manajemen keamanan informasi, yang menjamin perlindungan data sensitif dan kesesuaian dengan regulasi.
+
+**Kapan dan mengapa diperlukan?**
+
+Diperlukan ketika perusahaan ingin menjamin keamanan informasi dan menunjukkan kesesuaian dengan regulasi internasional, meningkatkan kepercayaan klien dan mitra.
+
+**Berapa biaya rata-rata?**
+
+Biaya rata-rata bervariasi berdasarkan ukuran perusahaan dan kompleksitas operasinya, tetapi dapat berkisar antara 500€ hingga 5000€ per tahun.
+
+**Bagaimana memilih penyedia yang tepat?**
+
+Memilih penyedia yang tepat melibatkan evaluasi kompetensi teknis, sertifikasi, dukungan yang ditawarkan dan reputasi penyedia di sektor tersebut.
+
+**Apa saja sertifikasi penting?**
+
+Sertifikasi penting meliputi ISO 27001, ISO 9001 dan sertifikasi spesifik sektor lainnya yang menunjukkan kompetensi dan keandalan penyedia.
+
+**Apakah ISO 27001 mencakup juga cloud?**
+
+Ya, kompatibel dengan lingkungan cloud, hybrid dan multicloud, jika diintegrasikan dengan kontrol spesifik dan penilaian risiko yang memadai.
+
+**Bisakah saya menggunakan software untuk mengelola compliance?**
+
+Tentu saja: solusi seperti ISMS.online, MyEasyISO atau OneTrust menyederhanakan monitoring, dokumentasi dan governance.
+
+**Apakah perlu mengulang semuanya jika keluar versi baru dari norma?**
+
+Tidak, tetapi perlu memperbarui kontrol dan dokumentasi untuk menjadi sesuai, seperti yang diperlukan dalam transisi ke ISO/IEC 27001:2022.
+
+**Bisakah ISGroup membantu saya dalam memilih badan sertifikasi?**
+
+Ya, menawarkan konsultasi imparsial untuk memilih antara BSI, TÜV, DNV, Bureau Veritas dan lainnya, berdasarkan anggaran, industri dan tujuan perusahaan.
