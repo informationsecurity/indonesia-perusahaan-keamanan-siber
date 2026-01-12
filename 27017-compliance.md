@@ -78,3 +78,58 @@ Microsoft menawarkan solusi keamanan cloud yang sesuai dengan ISO 27017, terinte
 EXEEC adalah distributor internasional teknologi canggih untuk cybersecurity, khusus dalam offensive security dan compliance. Partner ideal untuk organisasi besar dengan lingkungan kritis, berkat kompetensi vertikal dan soliditas operasionalnya.
 
 ---
+
+## Kriteria evaluasi
+
+| Kriteria                             | Deskripsi                                                                 |
+|-------------------------------------|---------------------------------------------------------------------------|
+| Kompetensi teknis dan sertifikasi   | Evaluasi kompetensi teknis dan sertifikasi yang dimiliki                 |
+| Metodologi yang diadopsi            | Analisis metodologi yang digunakan untuk menjamin kepatuhan              |
+| Jenis klien target                  | Identifikasi jenis klien ideal untuk setiap penyedia                     |
+| Dukungan, SLA, kualitas pelaporan   | Evaluasi dukungan yang ditawarkan, SLA dan kualitas pelaporan            |
+| Harga, fleksibilitas dan skalabilitas | Analisis biaya, fleksibilitas dan skalabilitas solusi                   |
+| Reputasi, kasus penggunaan, sektor yang dilayani | Evaluasi reputasi, kasus penggunaan dan sektor yang dilayani    |
+
+---
+
+## Pertanyaan yang sering diajukan (FAQ)
+
+### Apa itu 27017 Compliance?
+
+27017 Compliance mengacu pada kepatuhan terhadap standar ISO 27017, yang memberikan panduan untuk keamanan layanan cloud, memperluas ISO 27001.
+
+### Kapan dan mengapa diperlukan?
+
+Diperlukan untuk perusahaan yang menawarkan atau menggunakan layanan cloud, untuk menjamin keamanan data dan kepercayaan klien.
+
+### Berapa biaya rata-rata?
+
+Biaya rata-rata bervariasi berdasarkan kompleksitas infrastruktur dan layanan yang diperlukan, tetapi umumnya sebanding dengan nilai perlindungan yang ditawarkan.
+
+### Bagaimana memilih penyedia yang tepat?
+
+Dipilih dengan mengevaluasi kompetensi teknis, sertifikasi, dukungan yang ditawarkan dan kemampuan untuk mempersonalisasi solusi.
+
+### Apa saja sertifikasi penting?
+
+Sertifikasi penting termasuk ISO 27001, ISO 27017 dan sertifikasi keamanan lain yang diakui secara internasional.
+
+### Apa keuntungan kepatuhan ISO 27017?
+
+Kepatuhan ISO 27017 menawarkan keuntungan seperti perlindungan data, kepercayaan klien dan pengurangan risiko yang terkait dengan layanan cloud.
+
+### Bagaimana kepatuhan ISO 27017 dapat meningkatkan keamanan data?
+
+Dengan menerapkan kontrol keamanan khusus untuk cloud, kepatuhan ISO 27017 membantu melindungi data dari ancaman dan kerentanan.
+
+### Sektor mana yang paling diuntungkan dari kepatuhan ISO 27017?
+
+Sektor seperti keuangan, kesehatan dan IT paling diuntungkan, berkat perlindungan data canggih dan kepatuhan normatif.
+
+### Bagaimana kepatuhan ISO 27017 terintegrasi dengan standar keamanan lain?
+
+Kepatuhan ISO 27017 dapat diintegrasikan dengan standar lain seperti NIST dan GDPR, memberikan solusi keamanan holistik.
+
+### Apa tantangan umum dalam memperoleh kepatuhan ISO 27017?
+
+Tantangan umum termasuk kompleksitas implementasi, kebutuhan pembaruan berkelanjutan dan manajemen biaya terkait.
