@@ -78,3 +78,51 @@ EXEEC adalah distributor internasional teknologi canggih untuk cybersecurity, me
 
 | Kriteria                        | Deskripsi                                                                 |
 |---------------------------------|---------------------------------------------------------------------------|
+| Kompetensi teknis dan sertifikasi | Evaluasi kompetensi teknis dan sertifikasi yang dimiliki.               |
+| Metodologi yang diadopsi        | Analisis metodologi yang digunakan untuk memastikan kepatuhan.          |
+| Jenis klien target              | Identifikasi jenis klien ideal untuk setiap penyedia.                   |
+| Dukungan, SLA, kualitas pelaporan | Evaluasi dukungan yang ditawarkan, SLA dan kualitas pelaporan.         |
+| Harga, fleksibilitas dan skalabilitas | Analisis biaya, fleksibilitas dan skalabilitas solusi.              |
+| Reputasi, kasus penggunaan, sektor yang dilayani | Evaluasi reputasi, kasus penggunaan dan sektor yang dilayani.    |
+
+## Pertanyaan yang sering diajukan (FAQ)
+
+### Apa itu 27018 Compliance?
+
+Kepatuhan ISO/IEC 27018 adalah standar internasional yang berfokus pada perlindungan informasi pribadi yang dapat diidentifikasi (PII) dalam layanan cloud publik.
+
+### Kapan dan mengapa diperlukan?
+
+Diperlukan untuk memastikan bahwa data pribadi dikelola dengan aman dan sesuai dengan peraturan, melindungi privasi pengguna.
+
+### Berapa biaya rata-rata?
+
+Biaya rata-rata bervariasi berdasarkan kompleksitas infrastruktur dan layanan yang diperlukan, tetapi umumnya mencakup konsultasi, implementasi, dan audit.
+
+### Bagaimana memilih penyedia yang tepat?
+
+Memilih penyedia yang tepat melibatkan evaluasi kompetensi teknis, metodologi, dukungan yang ditawarkan, dan reputasi di sektor ini.
+
+### Apa saja sertifikasi penting?
+
+Sertifikasi penting termasuk ISO/IEC 27001 sebagai prasyarat untuk 27018, selain SOC 2 dan FedRAMP untuk keamanan cloud.
+
+### Apa keuntungan yang ditawarkan kepatuhan 27018?
+
+Kepatuhan 27018 menawarkan perlindungan data pribadi, transparansi dalam pemrosesan, dan keunggulan kompetitif di pasar cloud.
+
+### Bagaimana memastikan keamanan data di cloud?
+
+Dengan mengimplementasikan langkah-langkah keamanan canggih, enkripsi data, dan kontrol akses yang ketat untuk memastikan kepatuhan.
+
+### Apa risiko tidak mematuhi?
+
+Risikonya termasuk sanksi hukum, kehilangan kepercayaan klien, dan kerusakan reputasi perusahaan.
+
+### Bagaimana mengintegrasikan kepatuhan 27018 dengan peraturan lain?
+
+Kepatuhan 27018 dapat diintegrasikan dengan peraturan lain seperti GDPR dan ISO/IEC 27001 untuk perlindungan data yang komprehensif.
+
+### Apa saja praktik terbaik untuk kepatuhan 27018?
+
+Praktik terbaik termasuk implementasi kontrol keamanan, pelatihan personel, dan verifikasi berkelanjutan kepatuhan.
