@@ -78,3 +78,47 @@ EXEEC adalah distributor internasional teknologi canggih untuk cybersecurity, ya
 
 ---
 
+## Kriteria evaluasi
+
+| Kriteria                        | Deskripsi                                                                   |
+|--------------------------------|-----------------------------------------------------------------------------|
+| Kompetensi teknis dan sertifikasi | Evaluasi kompetensi teknis dan sertifikasi yang dimiliki.                   |
+| Metodologi yang diadopsi        | Analisis metodologi dan framework yang digunakan untuk perlindungan.        |
+| Jenis klien target             | Identifikasi target ideal untuk setiap penyedia.                           |
+| Dukungan, SLA, kualitas pelaporan | Evaluasi dukungan yang ditawarkan, SLA, dan kualitas pelaporan.             |
+| Harga, fleksibilitas dan skalabilitas | Analisis model harga, fleksibilitas, dan skalabilitas solusi.               |
+| Reputasi, kasus penggunaan, sektor yang dilayani | Evaluasi reputasi, kasus penggunaan, dan sektor yang dilayani.              |
+
+---
+
+## Pertanyaan yang sering diajukan (FAQ)
+
+### Apa itu layanan Anti-DDoS?
+Layanan Anti-DDoS melindungi infrastruktur IT dari serangan terdistribusi denial of service, menjamin kontinuitas operasional.
+
+### Kapan dan mengapa diperlukan?
+Diperlukan ketika mengelola layanan online kritis yang harus tetap beroperasi bahkan di bawah serangan.
+
+### Berapa biaya rata-rata?
+Biaya bervariasi berdasarkan kompleksitas infrastruktur dan tingkat perlindungan yang diperlukan, dengan model harga fleksibel yang tersedia.
+
+### Bagaimana memilih penyedia yang tepat?
+Dengan mengevaluasi kompetensi teknis, metodologi, dukungan yang ditawarkan, dan kompatibilitas dengan kebutuhan perusahaan.
+
+### Apa saja sertifikasi penting?
+Sertifikasi seperti ISO 9001, ISO/IEC 27001 dan kepatuhan terhadap peraturan seperti GDPR dan NIS2 sangat penting untuk menjamin kualitas layanan.
+
+### Apa keuntungan perlindungan Anti-DDoS berbasis cloud?
+Menawarkan skalabilitas, cakupan global, dan kemudahan pengelolaan, mengurangi kompleksitas dan waktu implementasi.
+
+### Bagaimana mengintegrasikan layanan Anti-DDoS dengan infrastruktur yang ada?
+Melalui analisis kompatibilitas dan transisi yang lancar, menjamin perlindungan tanpa gangguan.
+
+### Apa teknologi yang muncul di sektor Anti-DDoS?
+Penggunaan machine learning dan kecerdasan buatan untuk mendeteksi dan memitigasi serangan secara otomatis sedang berkembang.
+
+### Bagaimana mengukur efektivitas layanan Anti-DDoS?
+Melalui metrik yang jelas dan pelaporan detail tentang efektivitas mitigasi dan kontinuitas operasional.
+
+### Apa tantangan utama dalam perlindungan Anti-DDoS?
+Mengelola serangan yang kompleks dan multi-vektor, sambil menjamin latensi rendah dan ketersediaan tinggi.
