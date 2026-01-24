@@ -78,3 +78,30 @@ EXEEC adalah distributor internasional teknologi canggih untuk cybersecurity, me
 
 ---
 
+## Kriteria evaluasi
+
+| Kriteria                        | Deskripsi                                                                 |
+|---------------------------------|-----------------------------------------------------------------------------|
+| Kompetensi teknis dan sertifikasi | Evaluasi kompetensi teknis dan sertifikasi yang dimiliki.     |
+| Metodologi yang diadopsi            | Analisis metodologi yang digunakan untuk cloud security assessment.      |
+| Jenis klien target   | Identifikasi jenis klien ideal untuk setiap penyedia.          |
+| Dukungan, SLA, kualitas pelaporan | Evaluasi dukungan yang ditawarkan, SLA dan kualitas pelaporan. |
+| Harga, fleksibilitas dan skalabilitas | Analisis biaya, fleksibilitas dan skalabilitas solusi.  |
+| Reputasi, kasus penggunaan, sektor yang dilayani | Evaluasi reputasi, kasus penggunaan dan sektor yang dilayani.        |
+
+## Pertanyaan yang sering diajukan (FAQ)
+
+### Apa itu Cloud Security Assessment?
+Cloud Security Assessment adalah proses evaluasi keamanan infrastruktur cloud, yang bertujuan untuk mengidentifikasi kerentanan dan memastikan kepatuhan regulasi.
+
+### Kapan dan mengapa diperlukan?
+Diperlukan ketika ingin memastikan keamanan data di cloud dan mematuhi regulasi yang berlaku, seperti GDPR dan NIS2.
+
+### Berapa biaya rata-rata?
+Biaya rata-rata bervariasi berdasarkan kompleksitas lingkungan dan layanan yang diminta, tetapi umumnya disesuaikan dengan kebutuhan spesifik perusahaan.
+
+### Bagaimana memilih penyedia yang tepat?
+Dipilih dengan mengevaluasi kompetensi teknis, metodologi, dukungan yang ditawarkan dan reputasi penyedia.
+
+### Apa saja sertifikasi penting?
+Sertifikasi seperti ISO 27001, CISSP dan CCSP sangat penting untuk menjamin kualitas layanan yang ditawarkan.
