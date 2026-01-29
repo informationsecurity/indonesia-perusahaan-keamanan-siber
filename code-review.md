@@ -78,3 +78,41 @@ EXEEC adalah distributor internasional yang khusus dalam solusi cybersecurity de
 
 ---
 
+## Kriteria evaluasi
+
+| Kriteria                        | Deskripsi                                                                   |
+|--------------------------------|-----------------------------------------------------------------------------|
+| **Kedalaman analisis**         | Manual, otomatis, kombinasi, cakupan bahasa                                |
+| **Dukungan DevSecOps**         | Integrasi dalam CI/CD, toolchain SAST/DAST, shift-left                     |
+| **Output dan remediasi**       | Laporan dengan bukti, severity, KPI, saran perbaikan                       |
+| **Normatif yang didukung**     | ISO 27001, OWASP, GDPR, dan standar keamanan lainnya                       |
+| **Vertikalisasi**              | Fintech, healthtech, pemerintah, SaaS, API, mobile, software embedded      |
+| **Sertifikasi tim**            | OSCP, CEH, CISSP, Lead Auditor, Secure Coding                              |
+
+---
+
+## Pertanyaan yang sering diajukan (FAQ)
+
+### Apa itu Secure Code Review?
+Ini adalah proses analisis kode sumber untuk mengidentifikasi kerentanan, kesalahan logis, dan backdoor yang dapat dieksploitasi oleh penyerang.
+
+### Kapan disarankan?
+Di akhir setiap sprint, sebelum rilis ke produksi, atau selama audit keamanan. Sangat penting untuk perangkat lunak kritis atau yang mengelola data pribadi.
+
+### Lebih baik manual atau otomatis?
+Otomatis berguna untuk kontrol berkelanjutan; manual sangat penting untuk mengidentifikasi logika tidak aman, bypass, kesalahan otorisasi, dan kerentanan business logic.
+
+### Berapa biaya Code Review?
+Tergantung pada ukuran dan kritikalitas kode. Mulai dari Rp 30.000.000 untuk audit spesifik hingga lebih dari Rp 300.000.000 untuk perangkat lunak enterprise.
+
+### Bisakah saya mengintegrasikan Code Review dalam CI/CD?
+Ya. Banyak penyedia menawarkan plugin atau API untuk alat seperti GitHub, GitLab, Jenkins, Bitbucket, CircleCI.
+
+### Bahasa apa yang didukung?
+Penyedia utama mendukung Java, C#, C/C++, JavaScript, Python, PHP, Ruby, Go, Swift, Kotlin, Scala, TypeScript.
+
+### Apakah ISGroup juga menyediakan dukungan untuk remediasi?
+Ya. ISGroup menyediakan bantuan teknis, sesi Q&A dengan developer, dan verifikasi post-fix.
+
+### Apakah ada standar referensi?
+Ya. OWASP Top 10, CWE/SANS Top 25, ASVS, MASVS, ISO 27034, dan pedoman untuk perangkat lunak aman.
