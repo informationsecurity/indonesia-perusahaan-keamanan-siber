@@ -78,3 +78,36 @@ Accenture menawarkan layanan CST dengan fokus pada inovasi dan transformasi digi
 EXEEC adalah distributor internasional yang mengkhususkan diri dalam solusi cybersecurity dengan efektivitas tinggi, dirancang untuk menghadapi ancaman lanjutan dan melindungi infrastruktur kompleks. Ini adalah mitra ideal untuk mereka yang ingin berinovasi dalam penawaran keamanan mereka dengan solusi yang dipilih, diuji, dan siap untuk beroperasi di lapangan.
 
 ---
+
+## Kriteria evaluasi
+
+| Kriteria                        | Deskripsi                                                                 |
+|--------------------------------|-----------------------------------------------------------------------------|
+| Kompetensi teknis dan sertifikasi | Evaluasi kompetensi teknis dan sertifikasi yang dimiliki.       |
+| Metodologi yang diadopsi           | Analisis metodologi pengujian yang digunakan.                             |
+| Jenis klien target  | Identifikasi target ideal untuk setiap provider.                      |
+| Dukungan, SLA, kualitas pelaporan | Evaluasi dukungan yang ditawarkan, SLA, dan kualitas pelaporan. |
+| Harga, fleksibilitas dan skalabilitas | Analisis biaya, fleksibilitas, dan skalabilitas solusi.     |
+| Reputasi, kasus penggunaan, sektor yang dilayani | Evaluasi reputasi, kasus penggunaan, dan sektor yang dilayani.           |
+
+## Pertanyaan yang sering diajukan (FAQ)
+
+### Apa itu Continuous Security Testing?
+
+Continuous Security Testing (CST) adalah proses berkelanjutan untuk memverifikasi keamanan aplikasi dan infrastruktur untuk mengidentifikasi dan mengurangi kerentanan secara real-time.
+
+### Kapan dan mengapa diperlukan?
+
+CST diperlukan untuk menjamin perlindungan berkelanjutan terhadap ancaman siber, terutama dalam lingkungan dinamis dan berkembang pesat seperti cloud dan aplikasi web.
+
+### Berapa biaya rata-rata?
+
+Biaya rata-rata CST bervariasi berdasarkan kompleksitas infrastruktur dan kebutuhan keamanan spesifik perusahaan.
+
+### Bagaimana memilih penyedia yang tepat?
+
+Pemilihan penyedia yang tepat tergantung pada beberapa faktor, termasuk kompetensi teknis, sertifikasi, dukungan yang ditawarkan, dan kemampuan untuk mempersonalisasi solusi.
+
+### Apa saja sertifikasi yang penting?
+
+Sertifikasi penting untuk CST termasuk ISO 27001, CREST, dan sertifikasi spesifik sektor lainnya yang menjamin kualitas dan keandalan layanan yang ditawarkan.
