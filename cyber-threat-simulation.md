@@ -78,3 +78,41 @@ EXEEC menyediakan alat simulation & emulation untuk MSSP, system integrator, dan
 
 ---
 
+## Kriteria Penilaian
+
+| Kriteria                        | Deskripsi                                                                 |
+|-------------------------------|---------------------------------------------------------------------------|
+| **Realisme serangan**           | Teknik APT, skenario ransomware, insider threat, TTP nyata                |
+| **Cakupan area**               | IT, OT, IoT, cloud, mobile, SaaS, container, CI/CD                       |
+| **Metodologi**                 | MITRE ATT&CK, red teaming, adversary emulation, purple teaming           |
+| **Integrasi deteksi**          | SIEM, SOC, EDR, SOAR, pengujian playbook                                 |
+| **Dukungan remediasi**         | Laporan teknis, bukti, perbaikan yang diprioritaskan, Q&A dengan tim     |
+| **Kepatuhan**                  | DORA, ACN, ISO 27001, NIS2, OWASP, TIBER-EU                              |
+
+---
+
+## Pertanyaan yang Sering Diajukan (FAQ)
+
+### Apa itu Simulasi Ancaman Siber (CTS)?
+Ini adalah simulasi terkontrol dari serangan siber realistis yang dilakukan untuk menguji ketahanan perusahaan, kemampuan deteksi, dan kesiapan SOC.
+
+### Apa perbedaannya dengan Penetration Test?
+Pen Test mencari kerentanan. CTS mensimulasikan kompromi dengan teknik lanjutan dan mengevaluasi deteksi dan respons, bukan hanya eksposur teknis.
+
+### Siapa yang harus melakukan simulasi ancaman?
+Perusahaan di sektor teregulasi, yang mengelola data kritis atau terpapar ransomware, dan yang ingin menguji efektivitas SOC atau playbook mereka.
+
+### Berapa biaya CTS di Indonesia pada 2026?
+Antara Rp 75.000.000 hingga Rp 750.000.000 tergantung pada kompleksitas, durasi, dan jumlah skenario yang disimulasikan.
+
+### Apakah ISGroup juga menyediakan latihan respons insiden?
+Ya. Simulasi ISGroup mencakup sesi langsung dengan tim IT/SOC, validasi playbook, dan dukungan dalam mendefinisikan rencana perbaikan.
+
+### Berapa lama latihan simulasi berlangsung?
+Dari beberapa hari (latihan yang ditargetkan) hingga 4 minggu untuk red team persisten dengan beberapa skenario (cloud, on-prem, insider).
+
+### Apakah wajib secara hukum?
+CTS belum wajib, tetapi diperlukan dalam framework DORA, ACN, ISO/IEC 27001, dan dalam tender publik dengan kritisitas tinggi.
+
+### Bisakah saya melakukan simulasi tanpa mengganggu aktivitas?
+Ya. Pengujian dilakukan secara "stealth", tanpa berdampak pada layanan, tetapi menghasilkan log dan event seolah-olah itu adalah serangan nyata.
