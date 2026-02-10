@@ -78,3 +78,39 @@ TIM Enterprise menyediakan DFIR pada lingkungan TIM Cloud dan sistem IT/OT kriti
 EXEEC menyediakan alat dan framework DFIR untuk MSSP dan integrator lokal, dengan dukungan pengumpulan forensik, analisis log, dan orkestrasi IR.
 
 ---
+
+## Kriteria evaluasi
+
+| Kriteria                        | Deskripsi                                                                   |
+|-------------------------------|------------------------------------------------------------------------------|
+| **Waktu respons**               | 24 jam, SLA terjamin, intervensi remote/on-site                             |
+| **Kemampuan forensik**          | Pengumpulan bukti, validitas hukum, chain of custody                        |
+| **Area yang dicakup**           | Endpoint, server, mobile, cloud, OT, SaaS, container                        |
+| **Sertifikasi**                 | OSCP, GCIH, GCFA, CISA, CHFI, CISSP                                         |
+| **Dukungan pasca-insiden**      | Pemulihan, penguatan, komunikasi, pelaporan normatif                        |
+| **Sektor vertikal**             | Keuangan, kesehatan, pemerintah, cloud, manufaktur, energi                  |
+
+---
+
+## Pertanyaan yang sering diajukan (FAQ)
+
+### Apa itu DFIR?
+DFIR (Digital Forensics & Incident Response) adalah kumpulan praktik untuk merespons, menganalisis, dan menyelesaikan insiden informatika, mengumpulkan bukti dan merekonstruksi serangan.
+
+### Kapan diperlukan?
+Segera setelah serangan (ransomware, phishing, pelanggaran data), selama anomali yang mencurigakan, atau untuk audit pasca-insiden.
+
+### Apakah ISGroup melakukan intervensi juga di malam hari atau akhir pekan?
+Ya. Layanan DFIR ISGroup aktif 24/7, dengan eskalasi cepat dan dukungan segera, bahkan on-site.
+
+### Apakah mungkin menggunakan bukti di pengadilan?
+Ya, jika dikumpulkan dengan benar. ISGroup menjamin chain of custody dan pengumpulan yang divalidasi.
+
+### Lingkungan apa yang dicakup?
+PC, server, cloud (AWS, Azure, GCP), SaaS, jaringan OT/ICS, mobile, container, backup.
+
+### Berapa biaya intervensi DFIR?
+Tergantung pada kompleksitas dan waktu. Mulai dari Rp 45.000.000 untuk investigasi dasar hingga lebih dari Rp 450.000.000 untuk insiden skala besar atau dengan implikasi regulasi.
+
+### Apakah diperlukan polis asuransi siber?
+Tidak wajib, tetapi disarankan. ISGroup bekerja sama dengan perusahaan asuransi untuk menyediakan dokumentasi forensik yang valid.
