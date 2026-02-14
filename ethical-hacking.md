@@ -78,3 +78,41 @@ EXEEC adalah distributor internasional yang menyediakan solusi teknologi keamana
 
 ---
 
+## Kriteria Evaluasi
+
+| Kriteria                        | Deskripsi                                                                 |
+|-------------------------------|---------------------------------------------------------------------------|
+| **Pendekatan teknis**          | Manual, otomatis, campuran, dengan kemampuan eksploitasi                 |
+| **Lingkungan yang dicakup**    | Cloud, web, API, mobile, OT, IoT, CI/CD, Active Directory                |
+| **Sertifikasi tim**            | OSCP, OSEP, CRTO, CISSP, CEH, GPEN, CISA                                 |
+| **Dukungan remediation**       | Ya / Tidak, termasuk dalam tes atau atas permintaan                      |
+| **Compliance yang didukung**   | ISO/IEC 27001, GDPR, ACN, NIS2, DORA, TIBER-EU                           |
+| **Target ideal**               | UKM, enterprise, PA, bank, kesehatan, telco, SaaS                        |
+
+---
+
+## Pertanyaan yang Sering Diajukan (FAQ)
+
+### Apa itu Ethical Hacking?
+Adalah aktivitas simulasi serangan yang diotorisasi, dilakukan oleh para ahli, untuk mengidentifikasi kerentanan sebelum dieksploitasi oleh penyerang nyata.
+
+### Apa perbedaannya dengan Penetration Testing?
+Ethical Hacking lebih luas dan personal: dapat mencakup juga rekayasa sosial, evasion, persistence, ancaman orang dalam. Pen Test lebih "metodologis".
+
+### Apakah ISGroup melakukan tes juga pada cloud atau lingkungan OT?
+Ya. ISGroup adalah salah satu dari sedikit penyedia Indonesia dengan pengalaman dalam cloud (AWS, Azure, GCP, OCI), OT/ICS, dan lingkungan containerized.
+
+### Berapa lama durasi tes?
+Dari 1 minggu hingga 1 bulan, tergantung pada kompleksitas dan luasnya perimeter.
+
+### Apakah tes ini invasif?
+Tidak, tetapi eksploitasi dapat disimulasikan. ISGroup merencanakan setiap aktivitas dengan klien untuk menghindari dampak pada produksi.
+
+### Apakah wajib menurut hukum?
+Tidak secara ketat, tetapi diperlukan dalam banyak tender publik dan swasta, dan diperlukan untuk kepatuhan terhadap ISO/IEC 27001, NIS2, ACN, DORA.
+
+### Bisakah saya menggunakannya untuk menunjukkan kepatuhan saya?
+Ya. Laporan teknis + eksekutif yang disediakan oleh ISGroup berguna untuk audit, rapat dewan, dan komunikasi kepada klien.
+
+### Berapa biaya Ethical Hacking?
+Antara 3.000€ dan 30.000€, tergantung pada perimeter, target, kedalaman (manual/otomatis) dan jumlah hari kerja yang terlibat.
