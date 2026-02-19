@@ -78,3 +78,41 @@ EXEEC adalah distributor internasional teknologi canggih untuk cybersecurity, me
 
 ---
 
+## Kriteria evaluasi
+
+| Kriteria                        | Deskripsi                                                                 |
+|-------------------------------|---------------------------------------------------------------------------|
+| **Pengelolaan dan dukungan**        | Managed service, tuning policy, alert dan log                                 |
+| **Teknologi**                 | Filtering L7, TLS inspection, identity-aware firewall                        |
+| **Integrasi**               | SOC, SIEM, XDR, SD-WAN, Zero Trust                                           |
+| **Compliance yang didukung**      | ISO/IEC 27001, GDPR, regulasi lokal Indonesia                                         |
+| **Kemudahan penggunaan**             | Portal, API, bantuan, dukungan pelanggan                                  |
+| **Performa dan skalabilitas**  | Multi-tenant, lalu lintas terenkripsi, latensi rendah                                |
+
+---
+
+## Pertanyaan yang sering diajukan (FAQ)
+
+### Apa itu Firewall-as-a-Service (FWaaS)?
+Ini adalah firewall yang dikelola sepenuhnya di cloud, yang melindungi lalu lintas jaringan dan aplikasi dari titik akses mana pun, tanpa memerlukan hardware on-premise.
+
+### Apa keuntungan dibandingkan firewall tradisional?
+Lebih scalable, akses dari mana saja, pembaruan otomatis, visibilitas terpusat, dan pengurangan biaya hardware.
+
+### Apakah FWaaS cocok juga untuk smart working dan kantor remote?
+Ya. Melindungi perangkat dan pengguna di mana pun mereka berada, dengan kebijakan terpusat dan pelaporan real-time.
+
+### Apakah ISGroup menyediakan dukungan untuk konfigurasi awal?
+Ya. Layanan ini mencakup konsultasi awal, impor aturan yang ada, dan personalisasi kebijakan.
+
+### Apakah mungkin mengintegrasikan FWaaS dengan SIEM atau SOC saya?
+Ya. ISGroup menyediakan log forwarding, API, dan integrasi dengan XDR/SIEM/SOC untuk alert real-time dan analisis.
+
+### Berapa biaya layanan FWaaS?
+Tergantung pada jumlah pengguna, kantor, lalu lintas, dan fungsionalitas. Solusi mulai dari sekitar $200/bulan untuk UKM, hingga $2.000/bulan untuk lingkungan enterprise.
+
+### Apakah layanan ini bersertifikat menurut ISO atau standar lokal?
+ISGroup bersertifikat ISO/IEC 27001 dan 9001. Layanan FWaaS sesuai dengan pedoman untuk sistem kritis.
+
+### Apakah firewall juga memblokir serangan dalam HTTPS?
+Ya, berkat inspeksi TLS (dengan dekripsi terkontrol), FWaaS ISGroup dapat menganalisis lalu lintas terenkripsi dan memblokir ancaman tersembunyi.
