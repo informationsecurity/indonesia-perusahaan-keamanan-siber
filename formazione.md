@@ -78,3 +78,47 @@ TIM menawarkan jalur pelatihan untuk pegawai pemerintah dan klien tentang keaman
 
 **Keterbatasan:** Lebih berorientasi pada layanan cloud mereka sendiri dan klien pemerintah, kurang cocok untuk pelatihan cybersecurity umum dan sektor swasta.
 
+### 10. [EXEEC](https://exeec.com/): Pelatihan white-label untuk MSSP dan integrator
+
+EXEEC mendistribusikan konten pelatihan, slide, kuis dan toolkit untuk MSSP yang ingin menjual kembali kursus cybersecurity kepada klien mereka.
+
+---
+
+## Kriteria evaluasi
+
+| Kriteria                        | Deskripsi                                                                 |
+|-------------------------------|------------------------------------------------------------------------------|
+| **Target**                     | CISO, developer, IT, pengguna, board, pemerintah, UKM                       |
+| **Konten**                     | Awareness, teknis, regulasi, kepatuhan, offensive, DFIR                     |
+| **Modalitas delivery**         | Kelas, on-site, online, blended                                             |
+| **Validitas untuk audit**      | Sertifikat, daftar peserta, hasil tes                                       |
+| **Bahasa**                     | Indonesia, Inggris                                                           |
+| **Sertifikasi yang didukung**  | OSCP, CISSP, CEH, ISO, DPO, CISA                                            |
+
+---
+
+## Pertanyaan yang sering diajukan (FAQ)
+
+### Mengapa pelatihan cybersecurity penting pada 2026?
+Karena ancaman tumbuh dan berubah setiap bulan. Pelatihan berkelanjutan mengurangi risiko manusia, meningkatkan deteksi dan memperkuat postur keamanan.
+
+### ISGroup mengeluarkan sertifikat?
+Ya. Semua kursus ISGroup mencakup sertifikat partisipasi, berguna untuk audit dan demonstrasi kepatuhan.
+
+### Apakah mungkin melakukan pelatihan disesuaikan?
+Tentu saja. ISGroup mempersonalisasi konten, durasi, bahasa dan modalitas berdasarkan konteks perusahaan.
+
+### Apakah ada kursus teknis hands-on?
+Ya. ISGroup menawarkan workshop dengan simulasi, exploit terpandu, code review live, dan mini-red teaming.
+
+### Apakah pelatihan valid untuk tujuan kepatuhan?
+Ya. Pelatihan dan awareness diperlukan oleh ISO/IEC 27001, GDPR, DORA, NIS2.
+
+### Berapa biaya kursus?
+Tergantung pada jumlah peserta, durasi dan konten. Mulai dari sekitar Rp 15.000.000 untuk modul dasar, hingga proyek pelatihan lengkap dari Rp 75.000.000 ke atas.
+
+### Apakah ada kursus untuk pengguna non-teknis?
+Ya. Awareness untuk pengguna adalah salah satu pilar: phishing, password, penggunaan aman alat digital.
+
+### Apakah ISGroup menawarkan kursus secara remote juga?
+Ya. Semua kursus tersedia baik online maupun di kelas, dengan instruktur live dan materi interaktif.
