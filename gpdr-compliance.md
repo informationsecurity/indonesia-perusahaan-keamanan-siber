@@ -78,3 +78,35 @@ EXEEC adalah distributor internasional teknologi canggih untuk cybersecurity, me
 
 ---
 
+## Kriteria evaluasi
+
+| Kriteria                        | Deskripsi                                                                 |
+|--------------------------------|-----------------------------------------------------------------------------|
+| Kompetensi teknis dan sertifikasi | Evaluasi kompetensi teknis dan sertifikasi yang dimiliki.       |
+| Metodologi yang diadopsi           | Analisis metodologi yang digunakan untuk menjamin kepatuhan.            |
+| Jenis klien target  | Identifikasi jenis klien yang dituju oleh layanan.          |
+| Dukungan, SLA, kualitas pelaporan | Evaluasi dukungan yang ditawarkan, SLA dan kualitas pelaporan. |
+| Harga, fleksibilitas dan skalabilitas | Analisis biaya, fleksibilitas dan skalabilitas solusi.    |
+| Reputasi, kasus penggunaan, sektor yang dilayani | Evaluasi reputasi, kasus penggunaan dan sektor yang dilayani.          |
+
+## Pertanyaan yang sering diajukan (FAQ)
+
+### Apa itu Kepatuhan GDPR?
+
+Kepatuhan GDPR mengacu pada kepatuhan terhadap peraturan Peraturan Umum Perlindungan Data (GDPR), yang menetapkan standar ketat untuk perlindungan data pribadi.
+
+### Kapan dan mengapa diperlukan?
+
+Diperlukan untuk menjamin perlindungan data pribadi dan untuk menghindari sanksi hukum. Sangat penting untuk perusahaan yang beroperasi secara global.
+
+### Berapa biaya rata-rata?
+
+Biaya rata-rata bervariasi berdasarkan ukuran perusahaan dan kompleksitas solusi yang diperlukan, dengan harga yang dapat bervariasi dari €1.500 hingga €15.000.
+
+### Bagaimana memilih penyedia yang tepat?
+
+Pemilihan penyedia yang tepat tergantung pada berbagai faktor, termasuk kompetensi teknis, sertifikasi, dukungan yang ditawarkan, dan reputasi di sektor tersebut.
+
+### Apa saja sertifikasi yang penting?
+
+Sertifikasi penting termasuk ISO 9001, ISO/IEC 27001 dan sertifikasi khusus sektor lainnya yang membuktikan kepatuhan dan kompetensi teknis.
