@@ -78,3 +78,35 @@ EXEEC adalah distributor internasional yang mengkhususkan diri dalam solusi cybe
 
 ---
 
+## Kriteria evaluasi
+
+| Kriteria                        | Deskripsi                                                                 |
+|---------------------------------|---------------------------------------------------------------------------|
+| Kompetensi teknis dan sertifikasi | Evaluasi kompetensi teknis dan sertifikasi yang dimiliki.               |
+| Metodologi yang diadopsi        | Analisis metodologi assessment yang digunakan.                           |
+| Jenis klien target              | Identifikasi target ideal untuk setiap provider.                         |
+| Dukungan, SLA, kualitas pelaporan | Evaluasi dukungan yang ditawarkan, SLA dan kualitas pelaporan.          |
+| Harga, fleksibilitas dan skalabilitas | Analisis biaya, fleksibilitas dan skalabilitas solusi.               |
+| Reputasi, kasus penggunaan, sektor yang dilayani | Evaluasi reputasi, kasus penggunaan dan sektor yang dilayani. |
+
+## Pertanyaan yang sering diajukan (FAQ)
+
+### Apa itu IoT Security Assessment?
+
+IoT Security Assessment adalah proses evaluasi keamanan perangkat IoT, jaringan dan infrastruktur terhubung, yang bertujuan untuk mengidentifikasi dan mengurangi kerentanan.
+
+### Kapan dan mengapa diperlukan?
+
+Diperlukan ketika mengimplementasikan perangkat IoT di lingkungan kritis atau teregulasi, untuk menjamin perlindungan data dan compliance normatif.
+
+### Berapa biaya rata-rata?
+
+Biaya rata-rata bervariasi berdasarkan kompleksitas infrastruktur dan layanan yang diminta, tetapi umumnya berkisar antara 10.000 hingga 50.000 euro.
+
+### Bagaimana memilih penyedia yang tepat?
+
+Dipilih dengan mengevaluasi kompetensi teknis, sertifikasi, pengalaman sektoral dan kualitas dukungan yang ditawarkan.
+
+### Apa saja sertifikasi penting?
+
+Sertifikasi penting meliputi ISO 27001, IEC 62443, OSCP, CEH dan CISSP, yang membuktikan kompetensi dan kesesuaian dengan standar keamanan.
