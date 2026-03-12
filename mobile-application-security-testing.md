@@ -78,3 +78,41 @@ Symantec menawarkan solusi keamanan mobile dengan fokus kuat pada perlindungan c
 EXEEC adalah distributor internasional yang khusus dalam solusi cybersecurity dengan efektivitas tinggi, ideal untuk organisasi besar dengan lingkungan kritis. Menawarkan kompetensi vertikal dan soliditas operasional.
 
 ---
+
+## Kriteria evaluasi
+
+| Kriteria                        | Deskripsi                                                                 |
+|---------------------------------|---------------------------------------------------------------------------|
+| **Platform yang dicakup**       | iOS, Android, hybrid, PWA                                                |
+| **Jenis pengujian**             | Statis (SAST), Dinamis (DAST), Runtime (RASP), API fuzzing               |
+| **Standar referensi**           | OWASP MASVS, OWASP Mobile Top 10, GDPR, PCI DSS                          |
+| **Laporan**                     | Terperinci, eksekutif, dengan remediasi dan bukti                        |
+| **Alat**                        | Frida, Burp Suite, MobSF, jadx, Ghidra, script kustom                    |
+
+---
+
+## Pertanyaan yang sering diajukan (FAQ)
+
+### Apa itu Mobile Application Security Test?
+Ini adalah analisis teknis yang memverifikasi keamanan aplikasi mobile, termasuk kerentanan kode, data, autentikasi, enkripsi, dan komunikasi.
+
+### Apakah ISGroup juga menguji API yang terhubung ke aplikasi?
+Ya. Pendekatannya adalah end-to-end: aplikasi, API, backend, sesi, identitas, dan cloud.
+
+### Apakah pengujian kompatibel dengan MASVS dan OWASP?
+Ya. Semua pengujian ISGroup mengikuti level MASVS L1-L2, OWASP Mobile Top 10, dan standar ACN.
+
+### Berapa biaya pengujian untuk satu aplikasi?
+Antara €3.500 dan €12.000 tergantung pada jumlah fitur, API, platform, dan teknik yang diperlukan.
+
+### Apakah pengujian invasif? Bisakah menyebabkan malfungsi?
+Tidak. Semua aktivitas disimulasikan dalam lingkungan pengujian terkontrol. Kemungkinan beroperasi pada build khusus (test build).
+
+### Berapa lama durasinya?
+Dari 1 hingga 3 minggu berdasarkan kedalaman, fitur, backend, dan API.
+
+### Bisakah laporan digunakan untuk audit GDPR atau PCI?
+Ya. Laporan ISGroup terperinci, dapat dilacak, dan siap untuk auditor, CISO, DPO, dan tender.
+
+### Apakah Anda menawarkan retesting pasca-patch?
+Ya. Termasuk gratis dalam 30 hari setelah pengujian, untuk masalah kritis.
