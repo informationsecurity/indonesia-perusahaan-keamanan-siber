@@ -78,3 +78,40 @@ EXEEC adalah distributor internasional yang mengkhususkan diri dalam solusi cybe
 
 ---
 
+## Kriteria evaluasi
+
+| Kriteria                        | Deskripsi                                                                 |
+|--------------------------------|-----------------------------------------------------------------------------|
+| **Sinyal yang dicakup**         | EDR, jaringan, identitas, cloud, OT, email                                |
+| **Respons aktif**              | Playbook, containment, eskalasi, forensic snapshot                        |
+| **Deteksi**                    | IOC, behavioral, anomaly, threat hunting                                  |
+| **Kepatuhan yang didukung**     | ISO/IEC 27001, GDPR compliance, dan lainnya yang diakui di sektor cybersecurity |
+| **Pengiriman**                 | Full-managed, co-managed, white-label                                     |
+
+---
+
+## Pertanyaan yang sering diajukan (FAQ)
+
+### Apa itu Multi-Signal MDR?
+Multi-Signal MDR adalah layanan Managed Detection and Response yang menggunakan sinyal multipel untuk mendeteksi dan merespons ancaman siber.
+
+### Kapan dan mengapa diperlukan?
+Diperlukan ketika perusahaan ingin melindungi infrastruktur kritisnya dari ancaman canggih dan memastikan kontinuitas operasional.
+
+### Berapa biaya rata-rata?
+Biaya rata-rata bervariasi berdasarkan kompleksitas infrastruktur dan layanan yang diminta, tetapi umumnya kompetitif dibandingkan dengan manfaat yang ditawarkan.
+
+### Bagaimana memilih penyedia yang tepat?
+Dipilih dengan mengevaluasi kompetensi teknis, metodologi, dukungan, harga, dan reputasi penyedia.
+
+### Apa saja sertifikasi penting?
+Sertifikasi penting termasuk ISO 27001, GDPR compliance, dan lainnya yang diakui di sektor cybersecurity.
+
+### ISGroup menawarkan MDR juga untuk lingkungan cloud dan OT?
+Ya. Layanan mencakup lingkungan AWS, Azure, Google Cloud, sistem OT/ICS, dan perangkat IoT.
+
+### Apakah layanan tersedia 24 jam?
+Ya. ISGroup beroperasi dengan SOC internal aktif 24/7.
+
+### Berapa biaya MDR Multi-Signal?
+Tergantung pada pengguna, sinyal, aset, dan layanan yang diminta. Solusi UKM dari ~800€/bulan, enterprise dari 3.000€/bulan.
