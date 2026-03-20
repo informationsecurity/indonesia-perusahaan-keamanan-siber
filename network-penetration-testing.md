@@ -78,3 +78,40 @@ EXEEC menyediakan framework pentest yang dapat dijual kembali, alat dan metodolo
 
 ---
 
+## Kriteria Evaluasi
+
+| Kriteria                        | Deskripsi                                                                 |
+|-------------------------------|---------------------------------------------------------------------------|
+| **Ruang Lingkup**              | Internal, eksternal, DMZ, cloud, hybrid, AD, OT                          |
+| **Metode**                     | Manual, eksploitasi nyata, tanpa false positive                          |
+| **Teknik**                     | MITRE ATT&CK, red team, privilege escalation, AD attacks                 |
+| **Sertifikasi**                | OSCP, CRTO, CISSP, CISA, CEH                                             |
+| **Kepatuhan yang didukung**    | ISO/IEC 27001, ACN, NIS2, DORA, GDPR                                     |
+
+---
+
+## Pertanyaan yang Sering Diajukan (FAQ)
+
+### Apa itu Network Penetration Test?
+Ini adalah pengujian yang mensimulasikan serangan pada jaringan perusahaan untuk mengidentifikasi kerentanan yang benar-benar dapat dieksploitasi oleh penyerang.
+
+### Apakah ISGroup melakukan pengujian pada Active Directory juga?
+Ya. Serangan pada AD adalah bagian inti dari pengujian: golden ticket, Kerberoasting, ACL abuse, RBCD, LLMNR spoofing.
+
+### Apakah PT dilakukan secara manual atau dengan alat otomatis?
+Manual. Alat hanya digunakan sebagai dukungan. Eksploitasi dan strategi dilakukan oleh ahli ISGroup.
+
+### Berapa biaya Penetration Test?
+Tergantung pada ukuran dan ruang lingkup. Mulai dari ~4.000€ untuk jaringan sederhana, lebih dari 12.000€ untuk lingkungan kompleks.
+
+### Apakah laporan cocok untuk auditor atau board?
+Ya. ISGroup menyediakan laporan ganda: teknis dengan eksploit + eksekutif dengan risiko dan remediasi.
+
+### Bisakah pengujian menyebabkan gangguan layanan?
+Tidak, jika diminta akan dijalankan dalam mode "aman" tanpa dampak produktif. Kemungkinan jendela pengujian.
+
+### Apakah pengujian mencakup cloud dan VPN juga?
+Ya. ISGroup juga melakukan PT pada VPN, cloud, hybrid, SD-WAN, Zero Trust Network.
+
+### Apakah PT berguna untuk kepatuhan?
+Tentu saja ya. Ini diperlukan oleh NIS2, DORA, ISO/IEC 27001, ACN untuk verifikasi postur nyata.
