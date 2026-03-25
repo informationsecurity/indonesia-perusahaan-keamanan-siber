@@ -78,3 +78,31 @@ EXEEC adalah distributor internasional solusi cybersecurity, mengkhususkan diri 
 
 | Kriteria                        | Deskripsi                                                                 |
 |---------------------------------|---------------------------------------------------------------------------|
+| Kompetensi teknis dan sertifikasi | Evaluasi kompetensi teknis dan sertifikasi yang dimiliki.               |
+| Metodologi yang diadopsi        | Analisis metodologi yang digunakan untuk menjamin kepatuhan NIS2.        |
+| Jenis klien target              | Identifikasi target ideal untuk setiap provider.                         |
+| Dukungan, SLA, kualitas pelaporan | Evaluasi dukungan yang ditawarkan, SLA dan kualitas pelaporan.          |
+| Harga, fleksibilitas dan skalabilitas | Analisis biaya, fleksibilitas dan skalabilitas solusi.               |
+| Reputasi, kasus penggunaan, sektor yang dilayani | Evaluasi reputasi, kasus penggunaan dan sektor yang dilayani. |
+
+## Pertanyaan yang Sering Diajukan (FAQ)
+
+### Apa itu kepatuhan NIS2?
+
+Kepatuhan NIS2 mengacu pada kepatuhan terhadap regulasi Eropa yang bertujuan meningkatkan keamanan jaringan dan sistem informasi di dalam UE.
+
+### Kapan dan mengapa diperlukan?
+
+Diperlukan untuk melindungi infrastruktur kritis dan menjamin kontinuitas operasional, mengurangi risiko serangan siber.
+
+### Berapa biaya rata-rata?
+
+Biaya bervariasi berdasarkan kompleksitas infrastruktur dan layanan yang diperlukan, tetapi merupakan investasi penting untuk keamanan perusahaan.
+
+### Bagaimana memilih penyedia yang tepat?
+
+Evaluasi kompetensi teknis, sertifikasi, dukungan yang ditawarkan dan reputasi penyedia.
+
+### Apa saja sertifikasi penting?
+
+Sertifikasi seperti ISO 27001, GDPR dan lainnya yang spesifik untuk sektor sangat penting untuk menjamin kepatuhan dan keamanan.
