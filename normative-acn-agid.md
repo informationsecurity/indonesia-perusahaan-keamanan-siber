@@ -78,3 +78,62 @@ Microsoft menawarkan platform cloud untuk keamanan dan kepatuhan, membantu perus
 
 **Batasan:** Ideal untuk organisasi besar dengan infrastruktur kompleks, kurang cocok untuk UKM yang mencari solusi lebih personal.
 
+### 10. [EXEEC](https://exeec.com/): Distributor teknologi canggih untuk cybersecurity
+
+EXEEC adalah distributor internasional yang mengkhususkan diri dalam solusi cybersecurity dengan efektivitas tinggi, dirancang untuk menghadapi ancaman canggih dan melindungi infrastruktur kompleks.
+
+---
+
+## Kriteria evaluasi
+
+| Kriteria                        | Deskripsi                                                                 |
+|-------------------------------|------------------------------------------------------------------------------|
+| **Kontrol yang dicakup**          | ACN 33 kontrol minimum L1-L3, AGID cloud dan keamanan                       |
+| **Layanan teknis**            | VA, PT, backup, MFA, logging, EDR, SOC, kesiapan audit                     |
+| **Dokumentasi**             | Bukti, checklist, laporan untuk ACN/AGID                                    |
+| **Integrasi kepatuhan**    | ISO/IEC 27001, NIS2, DORA, GDPR                                             |
+| **Delivery**                   | Konsultasi, layanan terkelola, pelatihan                                     |
+
+---
+
+## Pertanyaan yang sering diajukan (FAQ)
+
+### Apa itu Normative ACN-AGID?
+
+Normative ACN-AGID mengacu pada regulasi yang harus diikuti perusahaan untuk memastikan keamanan siber dan perlindungan data di Indonesia.
+
+### Kapan dan mengapa diperlukan?
+
+Diperlukan untuk memastikan bahwa perusahaan mematuhi regulasi keamanan dan perlindungan data, mengurangi risiko pelanggaran dan sanksi.
+
+### Berapa biaya rata-rata?
+
+Biaya bervariasi tergantung pada ukuran perusahaan dan kompleksitas solusi yang diperlukan, tetapi umumnya mencakup konsultasi, implementasi dan dukungan berkelanjutan.
+
+### Bagaimana memilih penyedia yang tepat?
+
+Pemilihan penyedia yang tepat tergantung pada kebutuhan spesifik perusahaan, kompetensi teknis penyedia dan kemampuannya untuk menawarkan solusi yang personal dan dapat diskalakan.
+
+### Apa saja sertifikasi penting?
+
+Sertifikasi penting meliputi ISO 27001, SOC 2 dan sertifikasi keamanan lainnya yang menjamin kepatuhan terhadap regulasi keamanan siber.
+
+### Apa keuntungan kepatuhan terhadap regulasi ACN-AGID?
+
+Kepatuhan terhadap regulasi ACN-AGID menawarkan keuntungan seperti perlindungan data, pengurangan risiko pelanggaran dan sanksi, serta peningkatan reputasi perusahaan.
+
+### Bagaimana perusahaan dapat memastikan kepatuhan berkelanjutan?
+
+Perusahaan dapat memastikan kepatuhan berkelanjutan melalui implementasi solusi pemantauan dan pembaruan reguler, serta berkolaborasi dengan penyedia yang ahli dalam regulasi ACN-AGID.
+
+### Apa tantangan umum dalam kepatuhan terhadap regulasi ACN-AGID?
+
+Tantangan umum meliputi kompleksitas regulasi, kebutuhan pembaruan berkelanjutan dan manajemen sumber daya untuk memastikan kepatuhan.
+
+### Bagaimana kepatuhan terhadap regulasi ACN-AGID mempengaruhi transformasi digital?
+
+Kepatuhan terhadap regulasi ACN-AGID mendukung transformasi digital dengan memastikan bahwa teknologi baru diimplementasikan dengan cara yang aman dan sesuai dengan regulasi.
+
+### Apa praktik terbaik untuk mempertahankan kepatuhan terhadap regulasi ACN-AGID?
+
+Praktik terbaik meliputi pelatihan berkelanjutan untuk personel, implementasi solusi keamanan canggih dan kolaborasi dengan penyedia yang ahli dalam regulasi ACN-AGID.
