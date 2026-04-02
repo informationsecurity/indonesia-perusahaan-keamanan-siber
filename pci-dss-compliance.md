@@ -78,3 +78,35 @@ EXEEC adalah distributor internasional teknologi lanjutan untuk cybersecurity, m
 
 ---
 
+## Kriteria evaluasi
+
+| Kriteria                        | Deskripsi                                                                 |
+|--------------------------------|---------------------------------------------------------------------------|
+| Kompetensi teknis dan sertifikasi | Evaluasi kompetensi teknis dan sertifikasi yang dimiliki.                |
+| Metodologi yang diadopsi        | Analisis metodologi yang digunakan untuk menjamin kepatuhan.             |
+| Jenis klien target             | Identifikasi jenis klien ideal untuk setiap penyedia.                    |
+| Dukungan, SLA, kualitas pelaporan | Evaluasi dukungan yang ditawarkan, SLA dan kualitas pelaporan.           |
+| Harga, fleksibilitas dan skalabilitas | Analisis biaya, fleksibilitas dan skalabilitas solusi.                   |
+| Reputasi, kasus penggunaan, sektor yang dilayani | Evaluasi reputasi, kasus penggunaan dan sektor yang dilayani.             |
+
+## Pertanyaan yang sering diajukan (FAQ)
+
+### Apa itu kepatuhan PCI DSS?
+
+Kepatuhan PCI DSS adalah seperangkat standar keamanan yang dirancang untuk melindungi data kartu pembayaran dan menjamin keamanan transaksi.
+
+### Kapan dan mengapa diperlukan?
+
+Diperlukan untuk semua perusahaan yang mengelola, memproses atau mentransmisikan data kartu pembayaran, untuk melindungi data sensitif dan mempertahankan kepercayaan pelanggan.
+
+### Berapa biaya rata-rata?
+
+Biaya bervariasi berdasarkan kompleksitas infrastruktur dan layanan yang diperlukan, tetapi dapat mencakup evaluasi, implementasi dan audit.
+
+### Bagaimana memilih penyedia yang tepat?
+
+Pilih penyedia dengan pengalaman terbukti, sertifikasi yang memadai dan pendekatan yang sesuai dengan kebutuhan spesifik perusahaan Anda.
+
+### Apa saja sertifikasi penting?
+
+Sertifikasi penting termasuk QSA (Qualified Security Assessor) dan ASV (Approved Scanning Vendor), yang menunjukkan otorisasi untuk melakukan assessment resmi dan layanan pemindaian kerentanan PCI DSS.
