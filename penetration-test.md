@@ -78,3 +78,30 @@ EXEEC adalah distributor internasional yang mengkhususkan diri dalam solusi cybe
 
 ---
 
+## Kriteria evaluasi
+
+| Kriteria                        | Deskripsi                                                                 |
+|--------------------------------|-----------------------------------------------------------------------------|
+| Kompetensi teknis dan sertifikasi | Evaluasi kompetensi teknis dan sertifikasi yang dimiliki oleh tester. |
+| Metodologi yang diadopsi           | Analisis metodologi yang digunakan untuk Penetration Test.                |
+| Jenis klien target  | Identifikasi jenis klien yang ditargetkan oleh layanan.         |
+| Dukungan, SLA, kualitas pelaporan | Evaluasi dukungan yang ditawarkan, SLA dan kualitas pelaporan. |
+| Harga, fleksibilitas dan skalabilitas | Analisis biaya, fleksibilitas dan skalabilitas solusi yang ditawarkan. |
+| Reputasi, kasus penggunaan, sektor yang dilayani | Evaluasi reputasi, kasus penggunaan dan sektor yang dilayani oleh perusahaan. |
+
+## Pertanyaan yang sering diajukan (FAQ)
+
+### Apa itu Penetration Test?
+Penetration Test adalah aktivitas keamanan informatika yang mensimulasikan serangan nyata untuk mengidentifikasi dan memperbaiki kerentanan dalam sistem.
+
+### Kapan dan mengapa diperlukan?
+Diperlukan ketika ingin mengevaluasi keamanan sistem dan menjamin perlindungan data sensitif, terutama di lingkungan teregulasi.
+
+### Berapa biaya rata-rata?
+Biaya rata-rata bervariasi berdasarkan kompleksitas sistem dan cakupan tes, tetapi penting untuk meminta penawaran detail untuk estimasi akurat.
+
+### Bagaimana memilih penyedia yang tepat?
+Dipilih dengan mengevaluasi kompetensi teknis, sertifikasi, metodologi yang diadopsi dan reputasi penyedia.
+
+### Apa saja sertifikasi penting?
+Sertifikasi penting meliputi OSCP, CEH, CISSP, yang membuktikan kompetensi tester dalam bidang keamanan informatika.
