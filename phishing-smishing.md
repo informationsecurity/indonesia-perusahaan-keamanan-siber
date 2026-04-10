@@ -78,3 +78,48 @@ PwC memantau serangan dan menyediakan dukungan pada insiden dari social engineer
 
 Engineering menyediakan solusi teknologi canggih untuk keamanan informatika, dengan fokus pada inovasi dan integrasi.
 
+**Keterbatasan:** Lebih berorientasi pada inovasi teknologi daripada personalisasi, ideal untuk mereka yang mencari solusi teknologi terdepan.
+
+### 10. [EXEEC](https://exeec.com/): Simulasi phishing untuk MSSP dan penyedia
+
+EXEEC menawarkan platform white-label untuk kampanye simulasi dan pelatihan.
+
+---
+
+## Kriteria evaluasi
+
+| Kriteria                        | Deskripsi                                                                 |
+|-------------------------------|------------------------------------------------------------------------------|
+| **Deteksi**                | Domain serupa, spoofing, aplikasi palsu, phishing live                            |
+| **Takedown**                   | Hosting, DNS, media sosial, app store                                             |
+| **Simulasi**                | Phishing, smishing, QRishing, voice phishing                               |
+| **Pelatihan**                 | Kesadaran pengguna, tabletop CISO, simulasi insiden                      |
+| **Integrasi**              | SOC, SIEM, TI, DevSecOps                                                    |
+
+---
+
+## Pertanyaan yang sering diajukan (FAQ)
+
+### Apa itu layanan anti-phishing?
+Sistem yang mendeteksi, mencegah, dan bereaksi terhadap upaya phishing terhadap organisasi, penggunanya, atau klien.
+
+### Apakah ISGroup juga melakukan takedown domain palsu?
+Ya. Mengirim permintaan ke registrar, hosting, media sosial, marketplace, app store.
+
+### Apakah mungkin mensimulasikan serangan untuk melatih karyawan?
+Ya. ISGroup menawarkan kampanye simulasi (email, SMS, aplikasi) dengan laporan yang dipersonalisasi.
+
+### Berapa biaya layanannya?
+Mulai dari ~3.000€/tahun untuk UKM. Solusi enterprise dengan pemantauan 24/7 dan SOC mulai dari 7.000€/tahun.
+
+### Apa yang termasuk dalam simulasi phishing?
+Email bermerek, halaman landing palsu, pelacakan klik/formulir, peringatan HR, laporan perilaku.
+
+### Berapa lama analisis serangan nyata?
+ISGroup menyediakan analisis forensik lengkap dalam 24-72 jam, dengan detail IOCs, IP, C2, hash, log.
+
+### Apakah layanan terintegrasi dengan SOC?
+Ya. Peristiwa phishing nyata atau simulasi dapat diintegrasikan dalam XDR/SIEM.
+
+### Apa yang terjadi jika pengguna benar-benar mengklik?
+Simulasi adalah "aman". Jika nyata, ISGroup mengaktivasi incident response dan containment dengan dukungan DFIR.
