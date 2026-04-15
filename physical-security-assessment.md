@@ -78,3 +78,30 @@ EXEEC adalah distributor internasional teknologi canggih untuk cybersecurity, me
 
 ---
 
+## Kriteria evaluasi
+
+| Kriteria                        | Deskripsi                                                                 |
+|--------------------------------|-----------------------------------------------------------------------------|
+| Kompetensi teknis dan sertifikasi | Evaluasi sertifikasi dan kompetensi teknis penyedia.         |
+| Metodologi yang diadopsi           | Analisis metodologi dan framework yang digunakan untuk assessment.           |
+| Jenis klien target  | Identifikasi target ideal untuk setiap penyedia.                      |
+| Dukungan, SLA, kualitas pelaporan | Evaluasi dukungan yang ditawarkan, SLA dan kualitas pelaporan.            |
+| Harga, fleksibilitas dan skalabilitas | Analisis biaya, fleksibilitas dan skalabilitas solusi yang ditawarkan.         |
+| Reputasi, kasus penggunaan, sektor yang dilayani | Evaluasi reputasi penyedia dan sektor tempat mereka beroperasi.         |
+
+## Pertanyaan yang sering diajukan (FAQ)
+
+### Apa itu Physical Security Assessment?
+Physical Security Assessment adalah proses evaluasi kerentanan fisik suatu perusahaan, yang bertujuan untuk mengidentifikasi dan mengurangi risiko terhadap keamanan aset fisik.
+
+### Kapan dan mengapa diperlukan?
+Diperlukan ketika perusahaan ingin menjamin perlindungan aset fisik mereka dan mematuhi peraturan keamanan. Ini sangat penting di sektor berisiko tinggi seperti energi dan transportasi.
+
+### Berapa biaya rata-rata?
+Biaya rata-rata bervariasi berdasarkan kompleksitas assessment dan ukuran perusahaan. Penting untuk meminta penawaran detail untuk evaluasi yang akurat.
+
+### Bagaimana memilih penyedia yang tepat?
+Pemilihan penyedia yang tepat didasarkan pada kriteria seperti kompetensi teknis, metodologi yang diadopsi, dukungan yang ditawarkan, dan reputasi di sektor tersebut.
+
+### Apa saja sertifikasi penting?
+Sertifikasi penting termasuk ISO 27001, CPP, CISSP, dan CISA, yang menjamin standar kualitas dan kompetensi tinggi di sektor keamanan fisik.
