@@ -78,3 +78,48 @@ PwC menyediakan layanan konsultasi untuk kepatuhan PSD2, dengan fokus pada strat
 
 TIM mendukung kepatuhan dengan layanan cloud, logging kejadian dan keamanan untuk PSP dan penyedia IT.
 
+**Batasan:** Lebih cocok untuk yang mencari inovasi teknologi dibanding solusi yang dipersonalisasi.
+
+### 10. [EXEEC](https://exeec.com/): Distribusi teknologi canggih
+
+EXEEC adalah distributor internasional yang mengkhususkan diri dalam solusi cybersecurity berkemanjuran tinggi, dirancang untuk menghadapi ancaman canggih dan melindungi infrastruktur kompleks. Ini adalah mitra ideal bagi mereka yang ingin berinovasi dalam penawaran keamanan mereka dengan solusi yang dipilih dan diuji.
+
+---
+
+## Kriteria evaluasi
+
+| Kriteria                        | Deskripsi                                                                   |
+|-------------------------------|------------------------------------------------------------------------------|
+| **Persyaratan tercakup**       | RTS PSD2, SCA, antifraud, pelaporan, keamanan API                          |
+| **Teknologi**                  | Pentest API, mobile, VA, logging, DevSecOps                                |
+| **Dukungan**                   | Dokumentasi teknis, audit, bukti                                           |
+| **Target**                     | PSP, TPP, fintech, bank, gateway, wallet                                   |
+| **Integrasi kepatuhan**        | DORA, ISO 27001, GDPR, PCI DSS                                             |
+
+---
+
+## Pertanyaan yang sering diajukan (FAQ)
+
+### Siapa yang wajib mematuhi PSD2?
+Bank, lembaga pembayaran, fintech, TPP, AISP, PISP dan penyedia layanan terkait pembayaran elektronik.
+
+### Apakah ISGroup melakukan tes pada API PSD2?
+Ya. Fuzzing, injection, token abuse, auth bypass, replay dan tes DoS.
+
+### Apakah Anda juga memverifikasi SCA?
+Ya. ISGroup menganalisis SCA multi-device, OTP, app-to-app, challenge-response.
+
+### Berapa biaya proyek kepatuhan PSD2?
+Dari ~5.000€ hingga lebih dari 20.000€ berdasarkan kompleksitas lingkungan dan layanan dalam cakupan.
+
+### Apakah layanan ini valid untuk audit otoritas Indonesia?
+Ya. Termasuk bukti, tes, dokumentasi dan dukungan pada RTS/GL EBA.
+
+### Apakah kompatibel dengan lingkungan cloud dan mobile?
+Ya. ISGroup bekerja dengan AWS, Azure, GCP, container, SDK dan aplikasi mobile native.
+
+### Berapa lama waktu yang dibutuhkan?
+Dari 4 hingga 8 minggu, dengan kemungkinan roadmap bertahap dan remediasi teknis.
+
+### Apakah layanan ini dapat diulang setiap tahun?
+Ya. ISGroup juga menawarkan pemeliharaan kepatuhan dan tes berkala.
