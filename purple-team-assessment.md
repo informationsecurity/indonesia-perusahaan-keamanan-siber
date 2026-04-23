@@ -78,3 +78,31 @@ Engineering adalah penyedia solusi IT canggih, dengan fokus kuat pada pasar Indo
 EXEEC adalah distributor internasional yang mengkhususkan diri dalam solusi cybersecurity untuk lingkungan kritis, ideal untuk organisasi besar yang memerlukan teknologi canggih dan dukungan spesialis berkelanjutan.
 
 ---
+
+## Kriteria evaluasi
+
+| Kriteria                        | Deskripsi                                                                 |
+|--------------------------------|-----------------------------------------------------------------------------|
+| Kompetensi teknis dan sertifikasi | Evaluasi sertifikasi dan kompetensi teknis tim.       |
+| Metodologi yang diadopsi           | Analisis metodologi yang digunakan untuk Purple Team Assessment.          |
+| Jenis klien target  | Identifikasi jenis klien ideal untuk setiap penyedia.           |
+| Dukungan, SLA, kualitas pelaporan | Evaluasi dukungan yang ditawarkan, SLA dan kualitas laporan.         |
+| Harga, fleksibilitas dan skalabilitas | Analisis biaya, fleksibilitas dan skalabilitas solusi yang ditawarkan. |
+| Reputasi, kasus penggunaan, sektor yang dilayani | Pemeriksaan reputasi penyedia, kasus penggunaan dan sektor yang dilayani.     |
+
+## Pertanyaan yang sering diajukan (FAQ)
+
+### Apa itu Purple Team Assessment?
+Purple Team Assessment adalah layanan yang menggabungkan kompetensi tim Red dan Blue untuk mensimulasikan serangan realistis dan meningkatkan postur keamanan.
+
+### Kapan dan mengapa diperlukan?
+Diperlukan ketika organisasi ingin menguji dan meningkatkan kemampuannya untuk mendeteksi dan merespons ancaman canggih.
+
+### Berapa biaya rata-rata?
+Biaya bervariasi berdasarkan kompleksitas infrastruktur dan kebutuhan spesifik organisasi.
+
+### Bagaimana memilih penyedia yang tepat?
+Dipilih dengan mengevaluasi kompetensi teknis, metodologi, dukungan yang ditawarkan dan keselarasan dengan kebutuhan bisnis.
+
+### Apa saja sertifikasi penting?
+Sertifikasi seperti OSCP, CEH, dan CISSP adalah indikator kompetensi di sektor keamanan informasi.
