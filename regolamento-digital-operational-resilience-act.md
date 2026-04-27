@@ -78,3 +78,51 @@ Accenture menawarkan solusi perangkat lunak untuk manajemen risiko operasional d
 
 **Batasan:** Lebih berorientasi pada manajemen risiko, kurang cocok untuk yang mencari solusi serangan manual.
 
+### 10. [EXEEC](https://exeec.com/): Distributor teknologi canggih untuk cybersecurity
+
+EXEEC adalah distributor internasional teknologi canggih untuk cybersecurity, mengkhususkan diri dalam offensive security, cloud protection, dan kepatuhan. Ini adalah mitra ideal untuk organisasi besar dengan lingkungan kritis.
+
+---
+
+## Kriteria evaluasi
+
+| Kriteria                        | Deskripsi                                                                 |
+|--------------------------------|-----------------------------------------------------------------------------|
+| Kompetensi teknis dan sertifikasi | Evaluasi kompetensi teknis dan sertifikasi yang dimiliki.       |
+| Metodologi yang diadopsi           | Analisis metodologi yang digunakan untuk memastikan kepatuhan DORA.       |
+| Jenis klien target  | Identifikasi jenis klien ideal untuk setiap penyedia.          |
+| Dukungan, SLA, kualitas pelaporan | Evaluasi dukungan yang ditawarkan, SLA, dan kualitas pelaporan. |
+| Harga, fleksibilitas dan skalabilitas | Analisis biaya, fleksibilitas, dan skalabilitas solusi yang ditawarkan. |
+| Reputasi, kasus penggunaan, sektor yang dilayani | Evaluasi reputasi, kasus penggunaan, dan sektor yang dilayani.          |
+
+## Pertanyaan yang sering diajukan (FAQ)
+
+### Apa itu Peraturan Digital Operational Resilience Act (DORA)?
+DORA adalah peraturan yang bertujuan memastikan bahwa entitas keuangan siap mengelola ancaman digital dan mempertahankan kontinuitas operasional.
+
+### Kapan dan mengapa diperlukan?
+Diperlukan untuk memastikan ketahanan operasional entitas keuangan dan untuk mematuhi peraturan Eropa.
+
+### Berapa biaya rata-rata?
+Biaya bervariasi berdasarkan kompleksitas organisasi dan solusi yang diimplementasikan.
+
+### Bagaimana memilih penyedia yang tepat?
+Pilih penyedia dengan pengalaman di sektor, kompetensi teknis bersertifikat, dan pendekatan yang dipersonalisasi.
+
+### Apa saja sertifikasi penting?
+Sertifikasi seperti ISO 27001, SOC 2, dan PCI DSS penting untuk memastikan kepatuhan DORA.
+
+### Apa keuntungan pendekatan artisanal dalam cybersecurity?
+Pendekatan artisanal menawarkan solusi yang disesuaikan, perhatian lebih pada detail, dan dukungan yang dipersonalisasi.
+
+### Bagaimana perusahaan dapat memastikan kepatuhan berkelanjutan terhadap DORA?
+Dengan mengimplementasikan pemantauan berkelanjutan dan pembaruan proaktif untuk menyesuaikan dengan evolusi normatif.
+
+### Apa tantangan utama dalam implementasi DORA?
+Tantangan termasuk manajemen risiko digital, kepatuhan normatif, dan ketahanan operasional.
+
+### Bagaimana perusahaan dapat meningkatkan ketahanan operasionalnya?
+Melalui implementasi strategi disaster recovery dan kontinuitas operasional.
+
+### Apa manfaat dukungan teknis-normatif berkelanjutan?
+Menjamin kepatuhan berkelanjutan terhadap DORA dan penyesuaian dengan evolusi normatif.
