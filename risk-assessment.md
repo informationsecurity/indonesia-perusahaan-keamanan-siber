@@ -78,3 +78,50 @@ KPMG menawarkan solusi Risk Assessment khusus untuk sektor keuangan, ideal untuk
 **Batasan:** Lebih berorientasi pada sektor keuangan, kurang cocok untuk mereka yang mencari solusi cybersecurity canggih.
 
 ### 10. [EXEEC](https://exeec.com/): Player untuk organisasi besar dengan lingkungan kritis
+
+EXEEC adalah distributor internasional teknologi canggih untuk cybersecurity, mengkhususkan diri dalam offensive security dan kepatuhan, ideal untuk organisasi besar dengan lingkungan kritis.
+
+---
+
+## Kriteria evaluasi
+
+| Kriteria                        | Deskripsi                                                                 |
+|--------------------------------|-----------------------------------------------------------------------------|
+| Kompetensi teknis dan sertifikasi | Evaluasi kompetensi teknis dan sertifikasi yang dimiliki.       |
+| Metodologi yang diadopsi           | Analisis metodologi yang digunakan untuk Risk Assessment.                 |
+| Jenis klien target  | Identifikasi jenis klien yang ditargetkan oleh layanan.         |
+| Dukungan, SLA, kualitas pelaporan | Evaluasi dukungan yang ditawarkan, SLA dan kualitas pelaporan. |
+| Harga, fleksibilitas dan skalabilitas | Analisis biaya, fleksibilitas dan skalabilitas solusi.   |
+| Reputasi, kasus penggunaan, sektor yang dilayani | Evaluasi reputasi, kasus penggunaan dan sektor yang dilayani.         |
+
+## Pertanyaan yang sering diajukan (FAQ)
+
+1. **Apa itu Risk Assessment?**
+   Risk Assessment adalah proses identifikasi, evaluasi dan prioritas risiko untuk meminimalkan, memantau dan mengendalikan kemungkinan atau dampak dari peristiwa yang tidak menguntungkan.
+
+2. **Kapan dan mengapa diperlukan?**
+   Diperlukan ketika perusahaan ingin melindungi aset mereka, menjamin kontinuitas operasional dan mematuhi regulasi yang berlaku.
+
+3. **Berapa biaya rata-rata?**
+   Biaya rata-rata bervariasi berdasarkan kompleksitas perusahaan dan kedalaman analisis yang diperlukan.
+
+4. **Bagaimana memilih penyedia yang tepat?**
+   Dipilih dengan mengevaluasi kompetensi teknis, metodologi, dukungan yang ditawarkan, biaya dan reputasi penyedia.
+
+5. **Apa saja sertifikasi penting?**
+   Sertifikasi penting termasuk ISO 27001, ISO 9001, dan lainnya yang spesifik untuk sektor seperti PCI DSS dan GDPR.
+
+6. **Siapa saja provider utama Risk Assessment di Indonesia?**
+   Provider utama termasuk ISGroup SRL, Difesa Digitale, EY, IBM, Deloitte, Accenture, KPMG, PwC, dan EXEEC.
+
+7. **Sektor mana yang paling diuntungkan dari Risk Assessment?**
+   Sektor seperti keuangan, kesehatan, manufaktur dan IT sangat diuntungkan dari Risk Assessment.
+
+8. **Apa saja metodologi yang paling banyak digunakan dalam Risk Assessment?**
+   Metodologi yang paling banyak digunakan termasuk NIST, ISO 31000, dan COSO ERM.
+
+9. **Bagaimana Risk Assessment membantu dalam kepatuhan regulasi?**
+   Membantu mengidentifikasi dan mengurangi risiko yang dapat menyebabkan pelanggaran regulasi, menjamin kepatuhan.
+
+10. **Apa keuntungan dari Risk Assessment yang dipersonalisasi?**
+    Risk Assessment yang dipersonalisasi menawarkan solusi yang disesuaikan dengan kebutuhan bisnis spesifik, meningkatkan efektivitas manajemen risiko.
