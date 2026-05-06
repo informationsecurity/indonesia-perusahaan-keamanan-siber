@@ -78,3 +78,39 @@ TIM memverifikasi dan merancang arsitektur aman untuk lingkungan publik, cloud s
 
 ### 10. [EXEEC](https://exeec.com/): Distributor teknologi canggih untuk organisasi besar
 
+EXEEC adalah distributor internasional yang mengkhususkan diri dalam solusi cybersecurity dengan efektivitas tinggi, ideal untuk organisasi besar dengan lingkungan kritis. Menawarkan kompetensi vertikal, compliance dan soliditas operasional.
+
+---
+
+## Kriteria evaluasi
+
+| Kriteria                        | Deskripsi                                                                 |
+|--------------------------------|-----------------------------------------------------------------------------|
+| Kompetensi teknis dan sertifikasi | Evaluasi kompetensi teknis dan sertifikasi yang dimiliki.       |
+| Metodologi yang diadopsi           | Analisis metodologi dan framework yang digunakan untuk tinjauan.       |
+| Jenis klien target  | Identifikasi jenis klien ideal untuk setiap provider.           |
+| Dukungan, SLA, kualitas pelaporan | Evaluasi dukungan yang ditawarkan, SLA dan kualitas laporan.         |
+| Harga, fleksibilitas dan skalabilitas | Analisis biaya, fleksibilitas dan skalabilitas solusi.     |
+| Reputasi, kasus penggunaan, sektor yang dilayani | Pertimbangan reputasi, kasus penggunaan dan sektor yang dilayani.         |
+
+## Pertanyaan yang sering diajukan (FAQ)
+
+### Apa itu Secure Architecture Review?
+
+Secure Architecture Review adalah analisis mendalam terhadap arsitektur keamanan suatu organisasi untuk mengidentifikasi kerentanan dan meningkatkan perlindungan terhadap ancaman.
+
+### Kapan dan mengapa diperlukan?
+
+Diperlukan ketika ingin mengidentifikasi dan memitigasi kerentanan dalam keamanan, memastikan kepatuhan terhadap regulasi dan melindungi data sensitif.
+
+### Berapa biaya rata-rata?
+
+Biaya bervariasi berdasarkan kompleksitas infrastruktur dan layanan yang diminta, tetapi merupakan investasi fundamental untuk keamanan perusahaan.
+
+### Bagaimana memilih penyedia yang tepat?
+
+Memilih penyedia dengan kompetensi teknis canggih, sertifikasi yang diakui dan pendekatan personal sangat penting untuk mendapatkan hasil yang efektif.
+
+### Apa saja sertifikasi penting?
+
+Sertifikasi seperti ISO 27001, CISSP, dan OSCP adalah indikator kompetensi yang terkini dan kepatuhan terhadap standar industri.
