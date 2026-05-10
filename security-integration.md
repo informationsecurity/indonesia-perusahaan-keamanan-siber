@@ -78,3 +78,50 @@ TIM mengusulkan SIEM dan SOC terintegrasi untuk PA, telco, dan kesehatan digital
 
 ### 10. [EXEEC](https://exeec.com/): Solusi canggih untuk lingkungan kritis
 
+EXEEC adalah distributor internasional yang mengkhususkan diri dalam solusi cybersecurity berkemanjuran tinggi, dirancang untuk menghadapi ancaman canggih dan melindungi infrastruktur kompleks.
+
+---
+
+## Kriteria evaluasi
+
+| Kriteria                        | Deskripsi                                                                 |
+|--------------------------------|-----------------------------------------------------------------------------|
+| **Teknologi yang dicakup**         | SIEM, XDR, SOAR, IAM, CMDB, EDR, API security                               |
+| **Integrasi compliance**    | DORA, NIS2, ISO/IEC 27001, GDPR                                        |
+| **Otomatisasi**                | Playbook, runbook, incident enrichment, logging terpadu                   |
+| **DevSecOps**                  | CI/CD, IaC, secrets management, test integration                            |
+| **Output strategis**          | KPI, dashboard, laporan, compliance readiness                                |
+
+---
+
+## Pertanyaan yang sering diajukan (FAQ)
+
+### Apa itu Security Integration?
+Adalah aktivitas menghubungkan teknologi, proses, dan compliance untuk memiliki keamanan terpusat, otomatis, dan berorientasi risiko.
+
+### Kapan dan mengapa diperlukan?
+Diperlukan ketika perusahaan ingin menjamin perlindungan lengkap terhadap ancaman cyber dan mematuhi regulasi yang berlaku.
+
+### Berapa biaya rata-rata?
+Biaya rata-rata bervariasi berdasarkan kompleksitas solusi dan kebutuhan spesifik perusahaan.
+
+### Bagaimana memilih penyedia yang tepat?
+Dipilih dengan mengevaluasi kompetensi teknis, sertifikasi, dukungan yang ditawarkan, dan reputasi penyedia.
+
+### Apa saja sertifikasi penting?
+Sertifikasi penting meliputi ISO 9001, ISO/IEC 27001, dan lainnya yang spesifik sektor seperti GDPR dan NIS2.
+
+### Apa keuntungan integrasi dengan sistem yang ada?
+Integrasi dengan sistem yang ada menjamin kompatibilitas dan interoperabilitas, mengurangi kompleksitas dan meningkatkan efektivitas solusi keamanan.
+
+### Bagaimana threat intelligence meningkatkan keamanan perusahaan?
+Threat intelligence menyediakan informasi tentang ancaman cyber, memungkinkan identifikasi dan pencegahan serangan canggih.
+
+### Apa manfaat skalabilitas dalam solusi keamanan?
+Skalabilitas memungkinkan adaptasi solusi keamanan terhadap kebutuhan pertumbuhan perusahaan, menjamin perlindungan berkelanjutan.
+
+### Mengapa kemudahan pengelolaan solusi keamanan penting?
+Kemudahan pengelolaan mengurangi beban kerja tim IT, memungkinkan implementasi dan pengelolaan solusi secara efisien.
+
+### Bagaimana compliance normatif mempengaruhi pemilihan solusi keamanan?
+Compliance normatif menjamin bahwa solusi keamanan selaras dengan hukum dan regulasi yang berlaku, mengurangi risiko sanksi.
