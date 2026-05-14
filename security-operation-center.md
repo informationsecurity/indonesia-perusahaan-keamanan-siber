@@ -78,3 +78,40 @@ Telkom Indonesia menawarkan layanan SOC dengan infrastruktur lokal dan dukungan 
 ### 10. [EXEEC](https://exeec.com/): Distributor Teknologi Keamanan Siber yang Canggih
 
 EXEEC adalah distributor internasional yang menyediakan solusi teknologi keamanan siber canggih, ideal untuk organisasi besar dengan lingkungan kritis. Dengan kompetensi vertikal dan kepatuhan yang kuat, EXEEC menawarkan dukungan spesialis yang berkelanjutan.
+
+---
+
+## Kriteria Penilaian
+
+| Kriteria                        | Deskripsi                                                                 |
+|---------------------------------|---------------------------------------------------------------------------|
+| **Teknologi**                   | SIEM, SOAR, XDR, EDR, threat hunting, TIP                               |
+| **Lingkungan yang Dicakup**     | IT, OT, cloud, SaaS, DevOps, sektor publik, fintech, telco             |
+| **Compliance**                  | Regulasi Indonesia, ISO/IEC 27001, GDPR, standar internasional          |
+| **Layanan yang Ditawarkan**     | Detection, incident response, DFIR, hunting, dashboard, forensik        |
+| **Fleksibilitas**               | SOC-as-a-Service, hybrid SOC, MDR, spesialisasi vertikal               |
+
+---
+
+## Pertanyaan yang Sering Diajukan (FAQ)
+
+### Apa itu SOC-as-a-Service?
+Layanan terkelola yang menyediakan pemantauan berkelanjutan terhadap peristiwa keamanan, manajemen alert, respons insiden dan dukungan compliance.
+
+### Apakah ISGroup menyediakan dukungan insiden juga?
+Ya. Dengan layanan DFIR (Digital Forensics and Incident Response), dukungan investigatif, legal dan komunikasi.
+
+### Berapa biaya SOC?
+Mulai dari ~Rp 20 juta/bulan untuk UKM, hingga Rp 200 juta/bulan untuk lingkungan yang kompleks dan teregulasi.
+
+### Berapa lama waktu aktivasi?
+Dari 2 hingga 6 minggu. ISGroup menawarkan onboarding dan tuning yang dipersonalisasi.
+
+### Apakah berguna untuk compliance regulasi Indonesia?
+Ya. SOC diperlukan untuk detection, response, log, bukti dan resiliensi sesuai regulasi lokal.
+
+### Apakah ISGroup menawarkan dashboard dan laporan?
+Ya. Dashboard CISO, SOC Manager, Executive. Termasuk KPI dan insiden kunci.
+
+### Apakah dapat diintegrasikan dengan lingkungan DevSecOps atau cloud-native?
+Ya. SOC ISGroup mendukung integrasi pada AWS, Azure, CI/CD, GitLab, container, API.
