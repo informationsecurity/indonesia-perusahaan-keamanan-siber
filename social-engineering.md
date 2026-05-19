@@ -78,3 +78,36 @@ BSI Group mengkhususkan diri dalam standardisasi dan kepatuhan, ideal untuk peru
 
 EXEEC adalah distributor internasional teknologi canggih untuk cybersecurity, mengkhususkan diri dalam offensive security dan kepatuhan.
 
+---
+
+## Kriteria evaluasi
+
+| Kriteria                        | Deskripsi                                                                   |
+|-------------------------------|------------------------------------------------------------------------------|
+| **Jenis simulasi**             | Phishing, smishing, vishing, impersonation, pretexting                      |
+| **Target**                     | Eksekutif, IT, help desk, legal, keuangan, pengguna cloud                   |
+| **Realisme**                   | Kloning portal, bypass MFA, eskalasi step-by-step                           |
+| **Kemampuan pengukuran**       | Tingkat klik, kompromi, waktu rata-rata, eskalasi, kesadaran                |
+| **Kepatuhan**                  | ISO 27001, GDPR, standar keamanan lokal                                     |
+
+---
+
+## Pertanyaan yang sering diajukan (FAQ)
+
+### Apa itu Social Engineering Assessment?
+Tes simulasi untuk mengevaluasi kerentanan orang terhadap teknik manipulatif yang mirip dengan yang digunakan oleh penyerang nyata.
+
+### Apakah ISGroup juga mensimulasikan panggilan atau skenario fisik?
+Ya. Termasuk vishing, impersonation penyedia, audit, teknisi, pengiriman, CEO fraud.
+
+### Berapa biaya sebuah proyek?
+Dari ~3.000€ untuk kampanye phishing sederhana, hingga 20.000€ untuk skenario lanjutan dengan beberapa vektor.
+
+### Apakah legal?
+Ya. Semua aktivitas diotorisasi dan disimulasikan dengan cara yang terkontrol.
+
+### Apakah berguna untuk tujuan normatif (GDPR, standar keamanan)?
+Ya. Memverifikasi komponen manusia dari kontrol dan menunjukkan kesadaran dan pelatihan.
+
+### Berapa lama kampanye berlangsung?
+Dari 1 hingga 3 minggu, dengan kemungkinan tes siklis atau pelatihan terintegrasi.
