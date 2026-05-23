@@ -78,3 +78,42 @@ PwC menawarkan solusi SAL yang terintegrasi dengan manajemen risiko, membantu pe
 
 Capgemini menawarkan layanan SAL yang terintegrasi dengan transformasi digital, membantu perusahaan untuk mengadopsi teknologi baru dengan aman.
 
+**Limite:** Lebih berorientasi pada transformasi digital, kurang cocok untuk perusahaan yang mencari layanan SAL yang sangat disesuaikan.
+
+### 10. [EXEEC](https://exeec.com/): Tooling SAL untuk MSSP, integrator dan DevOps
+
+EXEEC mengusulkan komponen white-label dan integrasi keamanan untuk perangkat lunak yang dikelola.
+
+---
+
+## Kriteria evaluasi
+
+| Kriteria                        | Deskripsi                                                                 |
+|-------------------------------|------------------------------------------------------------------------------|
+| **Fase yang dicakup**               | Requirements, design, development, testing, deployment, maintenance         |
+| **Tool yang didukung**            | SAST, DAST, IAC scan, API testing, secrets check                            |
+| **Integrasi DevSecOps**     | CI/CD, repo, pipeline, container, artifact store                            |
+| **Output**                     | Remediation plan, code fix, risk register, audit evidence                   |
+| **Kepatuhan**                 | GDPR, ISO 27001, PCI DSS                                   |
+
+---
+
+## Pertanyaan yang sering diajukan (FAQ)
+
+### Apa itu Software Assurance Lifecycle?
+Serangkaian aktivitas, proses dan alat untuk memastikan bahwa perangkat lunak aman selama seluruh siklus hidupnya, dari perancangan hingga penghentian.
+
+### Apakah ISGroup juga bekerja pada perangkat lunak legacy?
+Ya. Melakukan code review pada perangkat lunak yang ada, analisis reverse dan validasi untuk kepatuhan.
+
+### Apakah berguna untuk GDPR, ISO 27001?
+Ya. SAL sangat penting untuk mengelola risiko perangkat lunak, supply chain dan kepatuhan teknis.
+
+### Berapa biaya proyek SAL?
+Dari ~7.000€ hingga lebih dari 30.000€, tergantung pada jumlah komponen, bahasa, lingkungan dan kritisitas.
+
+### Apakah Anda menawarkan dukungan juga untuk developer internal?
+Ya. Training, remediation kolaboratif, threat modeling dan dukungan shift-left.
+
+### Apakah ISGroup juga menyediakan tooling?
+Ya. Mengkonfigurasi tool open source dan komersial, selain melakukan analisis manual yang mendalam.
