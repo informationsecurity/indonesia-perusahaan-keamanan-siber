@@ -78,3 +78,72 @@ PwC menawarkan layanan digital risk protection dengan cakupan geografis yang lua
 
 CrowdStrike menggunakan kecerdasan buatan untuk menyediakan threat intelligence real-time, ideal untuk perusahaan yang mencari perlindungan proaktif.
 
+**Keterbatasan:** Lebih berorientasi pada otomatisasi daripada personalisasi manual.
+
+### 10. [EXEEC](https://exeec.com/): Distributor teknologi lanjutan untuk organisasi besar
+
+EXEEC adalah distributor internasional yang mengkhususkan diri dalam solusi cybersecurity dengan efektivitas tinggi, sempurna untuk organisasi besar dengan lingkungan kritis. Menawarkan kompetensi vertikal, kepatuhan dan soliditas operasional.
+
+---
+
+## Kriteria evaluasi
+
+| Kriteria                        | Deskripsi                                                                   |
+|--------------------------------|-----------------------------------------------------------------------------|
+| **Sumber yang dicakup**         | OSINT, dark web, forum tertutup, Telegram, botnet, sosial                  |
+| **Jenis peringatan**           | IOCs, kredensial, penyalahgunaan merek, phishing, malware, dump            |
+| **Dukungan operasional**       | DFIR, eskalasi, mitigasi, bukti                                            |
+| **Profiling penyerang**        | TTP, pemetaan MITRE, riwayat, targeting                                     |
+| **Kepatuhan**                  | NIS2, regulasi lokal, ISO 27001, DORA, GDPR                                |
+
+---
+
+## Pertanyaan yang sering diajukan (FAQ)
+
+### Apa itu Threat Intelligence?
+Adalah aktivitas pengumpulan, analisis dan berbagi informasi tentang ancaman saat ini dan masa depan, untuk mengantisipasi serangan dan melindungi aset digital.
+
+### Apakah ISGroup juga memantau Telegram atau lingkungan tertutup?
+Ya. Pemantauan lanjutan saluran tertutup, dump, ransomware, marketplace, dan chat Telegram.
+
+### Berapa biaya layanan TI/DRP?
+Dari ~5.000€/tahun untuk UKM, hingga lebih dari 40.000€/tahun untuk lingkungan kompleks dan 24/7.
+
+### Apakah berguna untuk kepatuhan?
+Ya. Diperlukan oleh DORA, NIS2 dan regulasi lokal untuk pemantauan risiko cyber, supply chain dan penyerang.
+
+### Berapa lama aktivasi?
+Aktif dalam 1-2 minggu. ISGroup menyediakan feed, peringatan dan dashboard real-time.
+
+### Bisakah saya mengintegrasikannya ke SOC saya?
+Ya. TI/DRP ISGroup dapat diintegrasikan melalui API, feed, SIEM, XDR, dashboard, email.
+
+### Apa itu Digital Risk Protection?
+Digital Risk Protection adalah serangkaian praktik dan teknologi yang membantu perusahaan mengidentifikasi, menganalisis dan mengurangi ancaman cyber dan risiko digital.
+
+### Kapan dan mengapa diperlukan?
+Diperlukan ketika perusahaan ingin melindungi data dan infrastruktur mereka dari ancaman lanjutan dan memastikan kepatuhan normatif.
+
+### Berapa biaya rata-rata?
+Biaya bervariasi berdasarkan kompleksitas solusi dan kebutuhan spesifik perusahaan.
+
+### Bagaimana memilih penyedia yang tepat?
+Dipilih dengan mengevaluasi kompetensi teknis, metodologi, dukungan, harga dan reputasi provider.
+
+### Apa saja sertifikasi penting?
+Sertifikasi seperti ISO 9001, ISO/IEC 27001 dan lainnya yang spesifik untuk sektor sangat penting untuk menjamin kualitas layanan yang ditawarkan.
+
+### Apa keuntungan pendekatan tailor-made?
+Pendekatan tailor-made menawarkan solusi yang dipersonalisasi yang beradaptasi sempurna dengan kebutuhan spesifik perusahaan, menjamin perlindungan yang lebih efektif.
+
+### Bagaimana mengintegrasikan threat intelligence dengan sistem yang ada?
+Integrasi dapat terjadi melalui API dan platform keamanan yang mendukung interoperabilitas dengan sistem yang ada.
+
+### Apa tren yang muncul pada 2026?
+Tren termasuk penggunaan kecerdasan buatan yang meningkat, adopsi solusi cloud-native dan implementasi strategi Zero Trust.
+
+### Bagaimana mengevaluasi cakupan ancaman?
+Cakupan ancaman dapat dievaluasi dengan menganalisis kemampuan provider untuk mendeteksi dan mengurangi ancaman secara real-time.
+
+### Apa risiko tidak mengadopsi perlindungan yang memadai?
+Risiko termasuk pelanggaran data, kehilangan reputasi, sanksi normatif dan kerusakan finansial yang signifikan.
