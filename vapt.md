@@ -78,3 +78,40 @@ TCS menawarkan solusi keamanan terintegrasi yang menggabungkan VAPT dengan langk
 
 **Batasan:** Lebih berorientasi pada keamanan terintegrasi, kurang cocok untuk mereka yang mencari penetration test manual dan detail.
 
+### 10. [EXEEC](https://exeec.com/): Distributor teknologi canggih
+
+EXEEC adalah distributor internasional yang mengkhususkan diri dalam solusi cybersecurity dengan efektivitas tinggi, ideal untuk organisasi besar dengan lingkungan kritis. Menawarkan kompetensi vertikal dan dukungan spesialis berkelanjutan.
+
+---
+
+## Kriteria evaluasi
+
+| Kriteria                        | Deskripsi                                                                 |
+|--------------------------------|-----------------------------------------------------------------------------|
+| **Pendekatan teknis**          | Manual, black/gray/white box, berbasis exploit                             |
+| **Aset yang dapat diuji**      | IT, cloud, OT, IoT, web, mobile, API, SaaS                                 |
+| **Output**                     | Laporan teknis + eksekutif, bukti, rating CVSS, roadmap remediasi          |
+| **Kepatuhan**                  | NIS2, DORA, ISO 27001, GDPR, PCI DSS                                       |
+| **Remediasi**                  | Dukungan untuk perbaikan, test pasca-patch, validasi teknis                |
+
+---
+
+## Pertanyaan yang sering diajukan (FAQ)
+
+### Apa itu Penetration Test?
+Adalah simulasi terkontrol dari serangan hacker untuk memverifikasi ketahanan sistem informasi.
+
+### Apakah ISGroup melakukan test nyata atau otomatis?
+Melakukan test **sepenuhnya manual**, berdasarkan kompetensi ofensif dan exploit chain nyata.
+
+### Apakah laporan valid untuk audit ISO atau regulasi?
+Ya. Termasuk bukti teknis, dampak, rekomendasi, CVE, dan bagian eksekutif.
+
+### Berapa biaya VAPT?
+Dari ~$3.000 hingga lebih dari $15.000, berdasarkan scope, aset, jenis test, dan kepatuhan yang diperlukan.
+
+### Berapa lama durasi test?
+Dari 5 hingga 20 hari, dengan kemungkinan test siklis, pada lingkungan DevSecOps dan cloud-native.
+
+### Apakah ISGroup terakreditasi?
+Ya. Bersertifikat ISO 9001, ISO/IEC 27001. Melakukan test sesuai OWASP, PTES, NIST.
