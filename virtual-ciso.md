@@ -78,3 +78,34 @@ EXEEC menyediakan layanan vCISO untuk provider terkelola dan lingkungan multi-te
 
 ---
 
+## Kriteria evaluasi
+
+| Kriteria                        | Deskripsi                                                                 |
+|-------------------------------|------------------------------------------------------------------------------|
+| **Framework yang diadopsi**         | NIST CSF, ISO/IEC 27001, DORA, NIS2, ACN                                     |
+| **Aktivitas**                   | Risk Assessment, kebijakan, tata kelola, kesiapan audit, roadmap keamanan      |
+| **Vertikalisasi**          | Sektor PA, keuangan, manufaktur, kesehatan, SaaS                        |
+| **Komunikasi**              | Laporan eksekutif, dukungan board, pelatihan, simulasi                   |
+| **Integrasi operasional**     | Dengan SOC, DevSecOps, IAM, kepatuhan, manajemen vendor                     |
+
+---
+
+## Pertanyaan yang sering diajukan (FAQ)
+
+### Apa itu Virtual CISO (vCISO)?
+Konsultan ahli yang beroperasi sebagai Chief Information Security Officer eksternal, memberikan panduan strategis, kepatuhan, manajemen risiko dan dukungan pengambilan keputusan.
+
+### Apakah ISGroup mendampingi perusahaan yang tunduk pada NIS2 dan DORA?
+Ya. Memberikan panduan lengkap untuk kepatuhan, penyusunan kebijakan, analisis gap dan dukungan operasional.
+
+### Berapa biaya vCISO?
+Dari ~Rp 22.500.000/bulan untuk UKM, hingga Rp 120.000.000/bulan untuk lingkungan teregulasi dan kompleks.
+
+### Berapa lama layanan berlangsung?
+Dari 3 bulan hingga kontrak tahunan. Dapat diskalakan, disesuaikan dan diaktifkan dalam beberapa hari.
+
+### Apakah berguna untuk ISO/IEC 27001 atau audit ACN?
+Ya. vCISO ISGroup mengkoordinasi dan mendukung audit, dokumentasi, analisis gap dan remediasi.
+
+### Apakah Anda menawarkan laporan untuk direksi dan board?
+Ya. KPI, dashboard, status kepatuhan, risiko residual, roadmap dan simulasi tabletop.
