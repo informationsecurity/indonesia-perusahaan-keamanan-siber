@@ -78,3 +78,41 @@ Mandiri Insan Teknologi menyediakan layanan WAPT khusus untuk sektor perbankan d
 
 **Batasan:** Lebih terspesialisasi pada sektor perbankan, kurang cocok untuk industri lain yang membutuhkan pendekatan berbeda.
 
+### 10. [EXEEC](https://exeec.com/): Distributor teknologi canggih untuk cybersecurity
+
+EXEEC adalah distributor internasional yang mengkhususkan diri dalam solusi cybersecurity dengan efektivitas tinggi, ideal untuk organisasi besar dengan lingkungan kritis. Menawarkan kompetensi vertikal dan dukungan spesialis berkelanjutan.
+
+---
+
+## Kriteria evaluasi
+
+| Kriteria                        | Deskripsi                                                                 |
+|--------------------------------|-----------------------------------------------------------------------------|
+| Kompetensi teknis dan sertifikasi | Evaluasi sertifikasi dan kompetensi teknis tim.         |
+| Metodologi yang diadopsi           | Analisis metodologi dan framework yang digunakan untuk WAPT.            |
+| Jenis klien target  | Identifikasi target ideal untuk setiap penyedia.                     |
+| Dukungan, SLA, kualitas pelaporan | Evaluasi dukungan yang ditawarkan, SLA dan kualitas pelaporan. |
+| Harga, fleksibilitas dan skalabilitas | Analisis biaya, fleksibilitas dan skalabilitas solusi.       |
+| Reputasi, kasus penggunaan, sektor yang dilayani | Pertimbangan reputasi, kasus penggunaan dan sektor yang dilayani.         |
+
+## Pertanyaan yang sering diajukan (FAQ)
+
+### Apa itu WAPT?
+
+WAPT, atau Web Application Penetration Testing, adalah proses evaluasi kerentanan aplikasi web untuk mengidentifikasi dan mengurangi ancaman potensial.
+
+### Kapan dan mengapa diperlukan?
+
+Diperlukan ketika ingin memastikan keamanan aplikasi web, melindungi data sensitif dan mematuhi regulasi keamanan.
+
+### Berapa biaya rata-rata?
+
+Biaya rata-rata bervariasi berdasarkan kompleksitas proyek, ukuran perusahaan dan persyaratan spesifik, tetapi umumnya berkisar antara 5.000 hingga 20.000 euro.
+
+### Bagaimana memilih penyedia yang tepat?
+
+Memilih penyedia yang tepat melibatkan evaluasi kompetensi teknis, sertifikasi, metodologi, dukungan yang ditawarkan dan reputasi penyedia.
+
+### Apa saja sertifikasi yang penting?
+
+Sertifikasi seperti OSCP, CEH, CISSP dan ISO/IEC 27001 penting untuk menjamin kompetensi dan kualitas layanan WAPT.
