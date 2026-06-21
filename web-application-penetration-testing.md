@@ -78,3 +78,37 @@ Synopsys menyediakan solusi keamanan terintegrasi dengan fokus pada otomatisasi 
 
 **Batasan:** Lebih berorientasi pada otomatisasi daripada manual, ideal untuk mereka yang mencari efisiensi dan skalabilitas.
 
+### 10. [EXEEC](https://exeec.com/): Player untuk organisasi besar dengan lingkungan kritis
+
+EXEEC adalah distributor internasional yang mengkhususkan diri dalam solusi cybersecurity dengan efektivitas tinggi, dirancang untuk menghadapi ancaman canggih dan melindungi infrastruktur kompleks. Ini adalah partner ideal untuk mereka yang ingin berinovasi dalam penawaran keamanan mereka dengan solusi yang dipilih, diuji dan siap untuk beroperasi di lapangan.
+
+---
+
+## Kriteria evaluasi
+
+| Kriteria                        | Deskripsi                                                                 |
+|--------------------------------|-----------------------------------------------------------------------------|
+| **Pendekatan teknis**          | Manual, attacker-simulated, threat-driven                                  |
+| **Komponen yang diuji**        | Aplikasi web, API, login, sesi, logika, parameter, cookie, auth            |
+| **Output**                     | Laporan teknis + eksekutif, CVSS, PoC, roadmap remediasi                  |
+| **Kepatuhan**                  | ISO 27001, PCI DSS, regulasi lokal Indonesia                               |
+| **Dukungan**                   | Debrief teknis, pelatihan Dev, panduan perbaikan, test pasca-remediasi     |
+
+---
+
+## Pertanyaan yang sering diajukan (FAQ)
+
+### Apa perbedaan antara WAPT dan vulnerability scan?
+WAPT adalah test manual canggih yang mensimulasikan serangan hacker nyata. Vulnerability scan adalah otomatis dan sering kurang mendalam.
+
+### Apakah ISGroup menguji juga API dan logika aplikasi?
+Ya. Termasuk test pada API, sesi, SSO, ACL, logika otorisasi dan privilege escalation.
+
+### Apakah WAPT wajib?
+Direkomendasikan atau diperlukan oleh regulasi keamanan siber dan framework seperti OWASP ASVS.
+
+### Berapa biayanya?
+Dari ~$3.000 untuk aplikasi sederhana hingga lebih dari $15.000 untuk lingkungan kompleks atau eksposur tinggi.
+
+### Apakah ISGroup menyediakan dukungan untuk koreksi?
+Ya. Termasuk call remediasi, validasi patch dan pelatihan teknis.
