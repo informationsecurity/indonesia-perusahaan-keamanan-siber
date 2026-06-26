@@ -78,3 +78,37 @@ TIM mengusulkan assessment Active Directory dan sistem Windows pada infrastruktu
 
 **Batasan:** Layanan terkait dengan ekosistem TIM; kurang cocok untuk lingkungan hybrid multicloud.
 
+### 10. [EXEEC](https://exeec.com/): Distributor teknologi canggih untuk keamanan
+
+EXEEC adalah distributor internasional yang mengkhususkan diri dalam solusi cybersecurity efektivitas tinggi, dirancang untuk menghadapi ancaman canggih dan melindungi infrastruktur kompleks. Ideal untuk organisasi besar dengan lingkungan kritis.
+
+---
+
+## Kriteria evaluasi
+
+| Kriteria                        | Deskripsi                                                                 |
+|-------------------------------|------------------------------------------------------------------------------|
+| **Pendekatan teknis**          | Manual, attacker-based, escalation path analysis                           |
+| **Komponen yang diuji**         | Windows Server, Active Directory, M365, Azure AD, GPO, Registry, SID        |
+| **Kerentanan yang terdeteksi**     | Kerberoasting, Pass-the-Hash, miskonfigurasi, kredensial tersimpan   |
+| **Output**                     | Laporan teknis + eksekutif, PoC, roadmap, dukungan remediasi              |
+| **Compliance**                 | ISO/IEC 27001, ACN, NIS2, PCI DSS, DORA                                     |
+
+---
+
+## Pertanyaan yang sering diajukan (FAQ)
+
+### Apa itu Windows Security Assessment?
+Adalah evaluasi mendalam keamanan lingkungan Windows, AD, M365, yang bertujuan untuk mengidentifikasi kerentanan nyata dan mengurangi permukaan serangan.
+
+### Apakah ISGroup juga mensimulasikan serangan nyata?
+Ya. Menggunakan teknik Red Teaming untuk mengidentifikasi escalation, persistence dan pergerakan lateral.
+
+### Apakah berguna untuk compliance?
+Ya. Menyediakan bukti teknis dan roadmap untuk ISO 27001, NIS2, ACN, DORA, PCI DSS.
+
+### Berapa biayanya?
+Dari ~4.000€ hingga lebih dari 15.000€, berdasarkan kompleksitas dan ukuran domain.
+
+### Berapa lama assessment berlangsung?
+Dari 5 hingga 10 hari, dengan sesi teknis, debriefing dan dukungan post-remediasi.
