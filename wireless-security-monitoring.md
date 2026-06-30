@@ -78,3 +78,27 @@ EXEEC mendistribusikan teknologi keamanan wireless dengan spesialisasi tinggi, d
 | **Kompetensi teknis dan sertifikasi** | ISO 27001, CWNA/CWSP, pengalaman dengan Wi-Fi 6, OT/IoT                      |
 | **Metodologi yang diadopsi**         | Monitoring pasif, WIPS/WIDS, threat intelligence                         |
 | **Jenis klien target**| UKM, enterprise, industri, PA, retail, kesehatan                             |
+| **Dukungan, SLA, laporan**        | Alarm real-time, dashboard, eskalasi, laporan teknis/siap compliance   |
+| **Harga, fleksibilitas, skalabilitas** | Paket UKM vs proyek enterprise, harga transparan, model berlangganan |
+| **Reputasi, kasus penggunaan, sektor** | Referensi, proyek dalam konteks kesehatan, industri, keuangan          |
+
+---
+
+## Pertanyaan yang sering diajukan (FAQ)
+
+### Apa itu Wireless Security Monitoring?
+Ini adalah layanan pemantauan berkelanjutan jaringan Wi-Fi perusahaan untuk mendeteksi perangkat yang tidak sah, serangan wireless (spoofing, rogue AP, deauth), konfigurasi yang salah dan pelanggaran kebijakan, menawarkan perlindungan proaktif.
+
+### Kapan dan mengapa diperlukan?
+Diperlukan ketika perusahaan menggunakan Wi-Fi yang luas (BYOD, guest, IoT), terutama jika menangani data sensitif atau tunduk pada compliance (PCI DSS, ISO 27001, NIS2). Mencegah serangan yang ditargetkan pada jaringan wireless, yang sering diabaikan dibandingkan jaringan kabel.
+
+### Berapa biaya rata-rata?
+Dari sekitar Rp 30.000.000/bulan untuk lokasi kecil hingga Rp 150.000.000/bulan untuk implementasi multi-site dengan sensorik dan dukungan 24/7.
+
+### Bagaimana memilih penyedia yang tepat?
+Verifikasi kompetensi teknis (sertifikasi wireless, OT, IoT), metodologi (pemantauan pasif, threat intelligence), waktu aktivasi (1-3 minggu), SLA, kemampuan integrasi dengan SOC/TI.
+
+### Sertifikasi apa yang penting?
+ISO/IEC 27001, CWNA/CWSP, pengalaman dengan standar Wi-Fi 6, ahli dalam sertifikasi OT dan IoT adalah elemen yang membedakan.
+
+---
